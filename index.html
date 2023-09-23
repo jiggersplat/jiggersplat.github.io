@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>leaflet-map-simple</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+
+  <!-- Load Leaflet code library: see https://leafletjs.com/download.html -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js" integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+
+  <!-- Position the map and title with Cascading Style Sheet (CSS) -->
+  <style>
+  body { margin:0; padding:0; }
+  #map { position: absolute; top:0; bottom:0; right:0; left:0; }
+  #map-title { position: relative; margin-top: 10px; margin-left: 50px; float: left; background: white; border: 2px solid rgba(0,0,0,0.2); padding: 6px 8px; font-family: Helvetica; font-weight: bold; font-size: 24px; z-index: 800; }
+  .emoji-marker { font-size: 32px; }
+    .leaflet-popup { 
+      margin-bottom: 70px;
+    }
+</style>
+  </style>
+</head>
+<body>
+
+  <!-- Display the map and title with HTML division tags  -->
+  <div id="map-title">EDIT map title</div>
+  <div id="map"></div>
+
+  <!-- Create the interactive map content with JavaScript (.js) -->
+  <script>
+
+  function dateString(ptime) {
+    var date = new Date(ptime);
+    var hours = date.getHours();
+    var minutes = "0" + date.getMinutes();
+    var seconds = "0" + date.getSeconds();
+
+    var d = date.getMonth() + "/" + date.getDate() + "/" + date.getFullYear();
+    var t =  hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+    return d + " " + t;
+  }
+
+  /* Set up the initial map center and zoom level */
+  var map = L.map('map', {
+    center: [41.77, -72.69], // EDIT coordinates to re-center map
+    zoom: 12,  // EDIT from 1 (zoomed out) to 18 (zoomed in)
+    scrollWheelZoom: false
+  });
+
+  /* display basemap tiles -- see others at https://leaflet-extras.github.io/leaflet-providers/preview/ */
+  L.tileLayer(
+    'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://osm.org/copyright">\
+        OpenStreetMap</a> contributors, &copy;\
+        <a href="https://carto.com/attribution">CARTO</a>'
+  }).addTo(map);
+
+
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", "./Items.data", false);
+  xmlhttp.setRequestHeader('Content-Type', 'text/plain');
+  xmlhttp.send();
+  var json = JSON.parse(xmlhttp.responseText);
+  //console.log(json);
+
+  var bounds = new L.LatLngBounds();
+  for (var i = 0; i < json.length; i++) {
+    console.log(json[i].name);
+    console.log(json[i].location.latitude);
+    console.log(json[i].location.longitude);
+
+    var lat = json[i].location.latitude;
+    var lon = json[i].location.longitude;
+
+    bounds.extend(L.latLng(lat, lon));
+
+    const size = 50;
+    const iconOptions = {
+      iconSize: [size, size],
+      iconAnchor: [size/2, size/2],
+      className: 'emoji-marker',
+      html: json[i].role.emoji
+    }
+
+    const markerOptions = {
+      icon: L.divIcon(iconOptions)
+    }
+
+    L.marker([lat, lon], markerOptions)
+    .addTo(map)
+    .bindPopup(
+      json[i].role.emoji + " " +
+      json[i].name + "</br>" + 
+      lat + "," + lon + "<br>" + 
+      dateString(json[i].location.timeStamp));
+
+  }
+
+  map.fitBounds(bounds);
+
+
+
+  </script>
+</body>
+</html>
