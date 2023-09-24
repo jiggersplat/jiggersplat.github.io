@@ -11,6 +11,8 @@ do
     git add --all
     git commit -m "update locations"
     git push
+  else
+    echo "no updates detected"
   fi
   sleep 60 
 done
