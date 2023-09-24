@@ -1,10 +1,16 @@
 #!/bin/sh
 
-cd "$(dirname "$0")"; 
-if ! diff -q Items.data ~/Library/Caches/com.apple.findmy.fmipcore/Items.data 
+#cd "$(dirname "$0")"; 
+
+while true
+do
+  if ! diff -q Items.data ~/Library/Caches/com.apple.findmy.fmipcore/Items.data 
 &>/dev/null; then
-	cp ~/Library/Caches/com.apple.findmy.fmipcore/Items.data .
-	git add --all
-	git commit -m "update locations"
-	git push
-fi
+    #git pull
+    cp ~/Library/Caches/com.apple.findmy.fmipcore/Items.data .
+    git add --all
+    git commit -m "update locations"
+    git push
+  fi
+  sleep 60 
+done
