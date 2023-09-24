@@ -2,10 +2,11 @@
 
 #cd "$(dirname "$0")"; 
 
-#while true
-#do
-  if ! diff -q Items.data ~/Library/Caches/com.apple.findmy.fmipcore/Items.data 
-&>/dev/null; then
+while true
+do
+#  if ! diff -q Items.data ~/Library/Caches/com.apple.findmy.fmipcore/Items.data &>/dev/null; then
+  if cmp --silent -- "~/Library/Caches/com.apple.findmy.fmipcore/Items.data" 
+"Items.data"; then
     echo "getting latest changes..."
     git pull
     echo "copying Items.data..."
@@ -19,5 +20,5 @@
   else
     echo "no updates detected"
   fi
-  #sleep 60 
-#done
+  sleep 60 
+done
