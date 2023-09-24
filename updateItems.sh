@@ -5,8 +5,8 @@
 while true
 do
 #  if ! diff -q Items.data ~/Library/Caches/com.apple.findmy.fmipcore/Items.data &>/dev/null; then
-  if cmp --silent -- "~/Library/Caches/com.apple.findmy.fmipcore/Items.data" 
-"Items.data"; then
+#cmp -- ~/Library/Caches/com.apple.findmy.fmipcore/Items.data Items.data
+  if !(cmp --silent -- ~/Library/Caches/com.apple.findmy.fmipcore/Items.data Items.data); then
     echo "getting latest changes..."
     git pull
     echo "copying Items.data..."
