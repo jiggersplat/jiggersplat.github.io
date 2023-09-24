@@ -15,8 +15,9 @@
     git commit -m "update locations"
     echo "pushing to github..."
     git push
+    echo "done."
   else
     echo "no updates detected"
   fi
-  sleep 60 
+  #sleep 60 
 #done
