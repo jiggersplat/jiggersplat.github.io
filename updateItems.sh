@@ -20,5 +20,5 @@ do
   else
     echo "no updates detected"
   fi
-  sleep 60 
+  sleep 300 
 done
