@@ -121,6 +121,125 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290715270216353,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757504441206962,
+          "timeStamp" : 1695592137490,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2WANP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "CE3ADDEA-8C6C-43D1-85C7-A92C5EFA988A",
+    "address" : {
+      "subAdministrativeArea" : "Edinburgh",
+      "label" : "Edinburgh Castle",
+      "streetAddress" : null,
+      "countryCode" : "GB",
+      "stateCode" : null,
+      "administrativeArea" : "Scotland",
+      "streetName" : null,
+      "formattedAddressLines" : [
+        "Edinburgh Castle",
+        "Edinburgh",
+        "EH1",
+        "Scotland"
+      ],
+      "mapItemFullAddress" : "Edinburgh Castle, Edinburgh, EH1, Scotland",
+      "fullThroroughfare" : null,
+      "areaOfInterest" : [
+        "Edinburgh Castle"
+      ],
+      "locality" : "Edinburgh",
+      "country" : "United Kingdom"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -3.1967860984792726,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 18.015232287562064,
+      "latitude" : 55.948790233550952,
+      "timeStamp" : 1696668696000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -3.1967860984792726,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 18.015232287562064,
+      "latitude" : 55.948790233550952,
+      "timeStamp" : 1696668696000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "👵🏼",
+      "identifier" : 999
+    },
+    "name" : "Nancy"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
       "type" : "hawkeye",
       "productInformation" : {
         "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
@@ -210,12 +329,12 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290389510049721,
+      "longitude" : -77.290426466922071,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.05950456332377,
-      "latitude" : 38.75707524837852,
+      "horizontalAccuracy" : 18.209160825108082,
+      "latitude" : 38.75706095672362,
       "timeStamp" : 1696665844000,
       "altitude" : -1,
       "locationFinished" : true
@@ -225,12 +344,12 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290389510049721,
+      "longitude" : -77.290426466922071,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.05950456332377,
-      "latitude" : 38.75707524837852,
+      "horizontalAccuracy" : 18.209160825108082,
+      "latitude" : 38.75706095672362,
       "timeStamp" : 1696665844000,
       "altitude" : -1,
       "locationFinished" : true
@@ -417,130 +536,11 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPL2WANP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "CE3ADDEA-8C6C-43D1-85C7-A92C5EFA988A",
-    "address" : {
-      "subAdministrativeArea" : "Edinburgh",
-      "label" : "44 Torphichen St",
-      "streetAddress" : "44",
-      "countryCode" : "GB",
-      "stateCode" : null,
-      "administrativeArea" : "Scotland",
-      "streetName" : "Torphichen St",
-      "formattedAddressLines" : [
-        "44 Torphichen St",
-        "Edinburgh",
-        "EH3 8JB",
-        "Scotland"
-      ],
-      "mapItemFullAddress" : "44 Torphichen St, Edinburgh, EH3 8JB, Scotland",
-      "fullThroroughfare" : "44 Torphichen St",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Edinburgh",
-      "country" : "United Kingdom"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -3.2116941417903533,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 34.671681045972299,
-      "latitude" : 55.946998492889875,
-      "timeStamp" : 1696666890000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -3.2116941417903533,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 34.671681045972299,
-      "latitude" : 55.946998492889875,
-      "timeStamp" : 1696666890000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "👵🏼",
-      "identifier" : 999
-    },
-    "name" : "Nancy"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290715270216353,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757504441206962,
-          "timeStamp" : 1695592137490,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPL2VVXP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -565,13 +565,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290698938870264,
+      "longitude" : -77.290697572675924,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.177990022286256,
-      "latitude" : 38.757468236740195,
-      "timeStamp" : 1696589562000,
+      "horizontalAccuracy" : 18.738210190596845,
+      "latitude" : 38.757465075082514,
+      "timeStamp" : 1696580309000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -580,23 +580,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290698938870264,
+      "longitude" : -77.290697572675924,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.177990022286256,
-      "latitude" : 38.757468236740195,
-      "timeStamp" : 1696589562000,
+      "horizontalAccuracy" : 18.738210190596845,
+      "latitude" : 38.757465075082514,
+      "timeStamp" : 1696580309000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🦄",
+      "identifier" : 999
     },
-    "name" : "Daniel’s Luggage"
+    "name" : "Jolene"
   },
   {
     "partInfo" : null,
@@ -890,11 +890,11 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -919,13 +919,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290697572675924,
+      "longitude" : -77.290698938870264,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.738210190596845,
-      "latitude" : 38.757465075082514,
-      "timeStamp" : 1696580309000,
+      "horizontalAccuracy" : 18.177990022286256,
+      "latitude" : 38.757468236740195,
+      "timeStamp" : 1696589562000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -934,23 +934,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290697572675924,
+      "longitude" : -77.290698938870264,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.738210190596845,
-      "latitude" : 38.757465075082514,
-      "timeStamp" : 1696580309000,
+      "horizontalAccuracy" : 18.177990022286256,
+      "latitude" : 38.757468236740195,
+      "timeStamp" : 1696589562000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Jolene"
+    "name" : "Daniel’s Luggage"
   },
   {
     "partInfo" : null,
