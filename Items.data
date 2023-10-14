@@ -56,10 +56,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGPL2VVXP0GV",
+    "serialNumber" : "HGHKPUD8P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -84,13 +84,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290601904512783,
+      "longitude" : -77.290538085080797,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.378619385338983,
-      "latitude" : 38.75744633778671,
-      "timeStamp" : 1697258925000,
+      "horizontalAccuracy" : 29.770764846834794,
+      "latitude" : 38.757378123677171,
+      "timeStamp" : 1697259854000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -99,23 +99,141 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290601904512783,
+      "longitude" : -77.290538085080797,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.378619385338983,
-      "latitude" : 38.75744633778671,
-      "timeStamp" : 1697258925000,
+      "horizontalAccuracy" : 29.770764846834794,
+      "latitude" : 38.757378123677171,
+      "timeStamp" : 1697259854000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🐕‍🦺",
+      "identifier" : 999
     },
-    "name" : "Daniel’s Luggage"
+    "name" : "Indy"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290685550221554,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757476932375297,
+          "timeStamp" : 1697244508861,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGDKP3MDP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290683339046993,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 27.734898745409755,
+      "latitude" : 38.757426685873732,
+      "timeStamp" : 1697259868000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290683339046993,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 27.734898745409755,
+      "latitude" : 38.757426685873732,
+      "timeStamp" : 1697259868000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🦄",
+      "identifier" : 999
+    },
+    "name" : "Jolene"
   },
   {
     "partInfo" : null,
@@ -292,242 +410,6 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGPL2WFNP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290711762309627,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 37.77906194723117,
-      "latitude" : 38.757452290951143,
-      "timeStamp" : 1697258936000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290711762309627,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 37.77906194723117,
-      "latitude" : 38.757452290951143,
-      "timeStamp" : 1697258936000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "name" : "Laura’s Luggage"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290685550221554,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757476932375297,
-          "timeStamp" : 1697244508861,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGDKP3MDP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.29074799174272,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 32.95369981399741,
-      "latitude" : 38.757432301144583,
-      "timeStamp" : 1697258924000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.29074799174272,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 32.95369981399741,
-      "latitude" : 38.757432301144583,
-      "timeStamp" : 1697258924000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
-    },
-    "name" : "Jolene"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290685550221554,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757476932375297,
-          "timeStamp" : 1697244508861,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
     "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
@@ -588,6 +470,124 @@
       "identifier" : 999
     },
     "name" : "Minivan"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290685550221554,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757476932375297,
+          "timeStamp" : 1697244508861,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP062P0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290632794363844,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 38.843629108193632,
+      "latitude" : 38.757429095561108,
+      "timeStamp" : 1697259854000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290632794363844,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 38.843629108193632,
+      "latitude" : 38.757429095561108,
+      "timeStamp" : 1697259854000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🧜‍♀️",
+      "identifier" : 999
+    },
+    "name" : "Virginia"
   },
   {
     "partInfo" : null,
@@ -682,13 +682,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290402954244882,
+      "longitude" : -77.290396032393161,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.398627444964639,
-      "latitude" : 38.757327644924331,
-      "timeStamp" : 1697258928000,
+      "horizontalAccuracy" : 23.677964877469538,
+      "latitude" : 38.757327571923483,
+      "timeStamp" : 1697259859000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -697,13 +697,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290402954244882,
+      "longitude" : -77.290396032393161,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.398627444964639,
-      "latitude" : 38.757327644924331,
-      "timeStamp" : 1697258928000,
+      "horizontalAccuracy" : 23.677964877469538,
+      "latitude" : 38.757327571923483,
+      "timeStamp" : 1697259859000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -772,10 +772,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGHKPUD8P0GV",
+    "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -800,13 +800,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.29053956103256,
+      "longitude" : -77.290599808002668,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.526117393199694,
-      "latitude" : 38.757394083065364,
-      "timeStamp" : 1697258930000,
+      "horizontalAccuracy" : 32.129876494489501,
+      "latitude" : 38.757441799887147,
+      "timeStamp" : 1697259859000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -815,23 +815,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.29053956103256,
+      "longitude" : -77.290599808002668,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.526117393199694,
-      "latitude" : 38.757394083065364,
-      "timeStamp" : 1697258930000,
+      "horizontalAccuracy" : 32.129876494489501,
+      "latitude" : 38.757441799887147,
+      "timeStamp" : 1697259859000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Indy"
+    "name" : "Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -918,13 +918,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290806027357576,
+      "longitude" : -77.290781614160082,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 20.583534255791509,
-      "latitude" : 38.757300179183105,
-      "timeStamp" : 1697249384000,
+      "isOld" : false,
+      "horizontalAccuracy" : 21.037269719144504,
+      "latitude" : 38.757164346850622,
+      "timeStamp" : 1697259856000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -933,13 +933,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290806027357576,
+      "longitude" : -77.290781614160082,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 20.583534255791509,
-      "latitude" : 38.757300179183105,
-      "timeStamp" : 1697249384000,
+      "isOld" : false,
+      "horizontalAccuracy" : 21.037269719144504,
+      "latitude" : 38.757164346850622,
+      "timeStamp" : 1697259856000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1008,10 +1008,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGPKP062P0GV",
+    "serialNumber" : "HGPL2WFNP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -1036,13 +1036,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290591444484846,
+      "longitude" : -77.290675523253128,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 43.083490397109919,
-      "latitude" : 38.757388699965674,
-      "timeStamp" : 1697258924000,
+      "horizontalAccuracy" : 23.90228729118078,
+      "latitude" : 38.757408912180203,
+      "timeStamp" : 1697259860000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1051,22 +1051,22 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290591444484846,
+      "longitude" : -77.290675523253128,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 43.083490397109919,
-      "latitude" : 38.757388699965674,
-      "timeStamp" : 1697258924000,
+      "horizontalAccuracy" : 23.90228729118078,
+      "latitude" : 38.757408912180203,
+      "timeStamp" : 1697259860000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🧜‍♀️",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Virginia"
+    "name" : "Laura’s Luggage"
   }
 ]
