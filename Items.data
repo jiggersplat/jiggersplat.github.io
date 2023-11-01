@@ -62,20 +62,23 @@
     "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
     "address" : {
       "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando",
-      "streetAddress" : null,
+      "label" : "Terminal B",
+      "streetAddress" : "9035B",
       "countryCode" : "US",
       "stateCode" : "FL",
       "administrativeArea" : "Florida",
-      "streetName" : null,
+      "streetName" : "Jeff Fuqua Blvd",
       "formattedAddressLines" : [
-        "Orlando, FL",
+        "Terminal B",
+        "9035B Jeff Fuqua Blvd",
+        "Orlando, FL  32827",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando, FL",
-      "fullThroroughfare" : null,
+      "mapItemFullAddress" : "Terminal B, 9035B Jeff Fuqua Blvd, Orlando, FL  32827",
+      "fullThroroughfare" : "9035B Jeff Fuqua Blvd",
       "areaOfInterest" : [
-
+        "Terminal B",
+        "Orlando International Airport"
       ],
       "locality" : "Orlando",
       "country" : "United States"
@@ -83,13 +86,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.317275552878371,
+      "longitude" : -81.308676275629125,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1482.6001655391385,
-      "latitude" : 28.429661359905914,
-      "timeStamp" : 1698853147000,
+      "horizontalAccuracy" : 19.457709148686757,
+      "latitude" : 28.430646638276666,
+      "timeStamp" : 1698854690000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -98,13 +101,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.317275552878371,
+      "longitude" : -81.308676275629125,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1482.6001655391385,
-      "latitude" : 28.429661359905914,
-      "timeStamp" : 1698853147000,
+      "horizontalAccuracy" : 19.457709148686757,
+      "latitude" : 28.430646638276666,
+      "timeStamp" : 1698854690000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -115,6 +118,132 @@
       "identifier" : 999
     },
     "name" : "Virginia"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "hawkeye",
+      "productInformation" : {
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : true,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290680615395743,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757471478737941,
+          "timeStamp" : 1698774581918,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "NB01GXA2319C0286",
+    "lostModeMetadata" : null,
+    "capabilities" : 158,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7211 Laketree Dr",
+      "streetAddress" : "7211",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7211 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7211 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290405478940556,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : true,
+      "horizontalAccuracy" : 19.536017942518324,
+      "latitude" : 38.757110321889442,
+      "timeStamp" : 1698849799000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "1.0.4",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290405478940556,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : true,
+      "horizontalAccuracy" : 19.536017942518324,
+      "latitude" : 38.757110321889442,
+      "timeStamp" : 1698849799000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🛴",
+      "identifier" : 999
+    },
+    "name" : "Segway Max G2"
   },
   {
     "partInfo" : null,
@@ -415,20 +544,23 @@
     "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
       "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando",
-      "streetAddress" : null,
+      "label" : "Terminal B",
+      "streetAddress" : "9403",
       "countryCode" : "US",
       "stateCode" : "FL",
       "administrativeArea" : "Florida",
-      "streetName" : null,
+      "streetName" : "Jeff Fuqua Blvd",
       "formattedAddressLines" : [
-        "Orlando, FL",
+        "Terminal B",
+        "9403 Jeff Fuqua Blvd",
+        "Orlando, FL  32827",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando, FL",
-      "fullThroroughfare" : null,
+      "mapItemFullAddress" : "Terminal B, 9403 Jeff Fuqua Blvd, Orlando, FL  32827",
+      "fullThroroughfare" : "9403 Jeff Fuqua Blvd",
       "areaOfInterest" : [
-
+        "Terminal B",
+        "Orlando International Airport"
       ],
       "locality" : "Orlando",
       "country" : "United States"
@@ -436,13 +568,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.323703967961507,
+      "longitude" : -81.308732633899112,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1407.3075342348802,
-      "latitude" : 28.432353777145664,
-      "timeStamp" : 1698853055000,
+      "horizontalAccuracy" : 25.823922612488619,
+      "latitude" : 28.430525432712187,
+      "timeStamp" : 1698854677000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -451,13 +583,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.323703967961507,
+      "longitude" : -81.308732633899112,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1407.3075342348802,
-      "latitude" : 28.432353777145664,
-      "timeStamp" : 1698853055000,
+      "horizontalAccuracy" : 25.823922612488619,
+      "latitude" : 28.430525432712187,
+      "timeStamp" : 1698854677000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -468,6 +600,126 @@
       "identifier" : 999
     },
     "name" : "Jolene"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290680615395743,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757471478737941,
+          "timeStamp" : 1698774581918,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2VVXP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "address" : {
+      "subAdministrativeArea" : "Orange County",
+      "label" : "Terminal B",
+      "streetAddress" : "9035B",
+      "countryCode" : "US",
+      "stateCode" : "FL",
+      "administrativeArea" : "Florida",
+      "streetName" : "Jeff Fuqua Blvd",
+      "formattedAddressLines" : [
+        "Terminal B",
+        "9035B Jeff Fuqua Blvd",
+        "Orlando, FL  32827",
+        "United States"
+      ],
+      "mapItemFullAddress" : "Terminal B, 9035B Jeff Fuqua Blvd, Orlando, FL  32827",
+      "fullThroroughfare" : "9035B Jeff Fuqua Blvd",
+      "areaOfInterest" : [
+        "Terminal B",
+        "Orlando International Airport"
+      ],
+      "locality" : "Orlando",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -81.30849618362106,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 22.77638141721377,
+      "latitude" : 28.430283172147579,
+      "timeStamp" : 1698854690000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -81.30849618362106,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 22.77638141721377,
+      "latitude" : 28.430283172147579,
+      "timeStamp" : 1698854690000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
+    },
+    "name" : "Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -650,20 +902,23 @@
     "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
       "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando",
-      "streetAddress" : null,
+      "label" : "Terminal B",
+      "streetAddress" : "9035B",
       "countryCode" : "US",
       "stateCode" : "FL",
       "administrativeArea" : "Florida",
-      "streetName" : null,
+      "streetName" : "Jeff Fuqua Blvd",
       "formattedAddressLines" : [
-        "Orlando, FL",
+        "Terminal B",
+        "9035B Jeff Fuqua Blvd",
+        "Orlando, FL  32827",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando, FL",
-      "fullThroroughfare" : null,
+      "mapItemFullAddress" : "Terminal B, 9035B Jeff Fuqua Blvd, Orlando, FL  32827",
+      "fullThroroughfare" : "9035B Jeff Fuqua Blvd",
       "areaOfInterest" : [
-
+        "Terminal B",
+        "Orlando International Airport"
       ],
       "locality" : "Orlando",
       "country" : "United States"
@@ -671,13 +926,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.324990898454104,
+      "longitude" : -81.308271453457692,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1219.3775162077363,
-      "latitude" : 28.437040169059575,
-      "timeStamp" : 1698853094000,
+      "horizontalAccuracy" : 18.920273422276335,
+      "latitude" : 28.430399524374394,
+      "timeStamp" : 1698854691000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -686,13 +941,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.324990898454104,
+      "longitude" : -81.308271453457692,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 1219.3775162077363,
-      "latitude" : 28.437040169059575,
-      "timeStamp" : 1698853094000,
+      "horizontalAccuracy" : 18.920273422276335,
+      "latitude" : 28.430399524374394,
+      "timeStamp" : 1698854691000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -703,132 +958,6 @@
       "identifier" : 7
     },
     "name" : "Laura’s Luggage"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : true,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290680615395743,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757471478737941,
-          "timeStamp" : 1698774581918,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 158,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7211 Laketree Dr",
-      "streetAddress" : "7211",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7211 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7211 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.29040920268713,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 19.468108783562617,
-      "latitude" : 38.757109421740786,
-      "timeStamp" : 1698849799000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "1.0.4",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.29040920268713,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 19.468108783562617,
-      "latitude" : 38.757109421740786,
-      "timeStamp" : 1698849799000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🛴",
-      "identifier" : 999
-    },
-    "name" : "Segway Max G2"
   },
   {
     "partInfo" : null,
@@ -916,13 +1045,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.045595013907118,
+      "longitude" : -77.045590247632418,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 18.819041342037806,
-      "latitude" : 38.853359326108318,
-      "timeStamp" : 1698851135000,
+      "horizontalAccuracy" : 22.896084492555914,
+      "latitude" : 38.853560410927152,
+      "timeStamp" : 1698851743000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -931,13 +1060,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.045595013907118,
+      "longitude" : -77.045590247632418,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 18.819041342037806,
-      "latitude" : 38.853359326108318,
-      "timeStamp" : 1698851135000,
+      "horizontalAccuracy" : 22.896084492555914,
+      "latitude" : 38.853560410927152,
+      "timeStamp" : 1698851743000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -948,122 +1077,5 @@
       "identifier" : 999
     },
     "name" : "Minivan"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "5AD79C0D-A7B7-424A-8DA0-85093E68E6EE",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290680615395743,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757471478737941,
-          "timeStamp" : 1698774581918,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPL2VVXP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
-    "address" : {
-      "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando",
-      "streetAddress" : null,
-      "countryCode" : "US",
-      "stateCode" : "FL",
-      "administrativeArea" : "Florida",
-      "streetName" : null,
-      "formattedAddressLines" : [
-        "Orlando, FL",
-        "United States"
-      ],
-      "mapItemFullAddress" : "Orlando, FL",
-      "fullThroroughfare" : null,
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Orlando",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.322067168521812,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 1237.9327933150951,
-      "latitude" : 28.436658004255634,
-      "timeStamp" : 1698853068000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.322067168521812,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 1237.9327933150951,
-      "latitude" : 28.436658004255634,
-      "timeStamp" : 1698853068000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "name" : "Daniel’s Luggage"
   }
 ]
