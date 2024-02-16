@@ -84,13 +84,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.792838350649589,
+      "longitude" : -76.792823493565464,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.904057176274243,
-      "latitude" : 39.246504131347088,
-      "timeStamp" : 1708054200000,
+      "horizontalAccuracy" : 34.965039424218574,
+      "latitude" : 39.24650189602081,
+      "timeStamp" : 1708055094000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -99,13 +99,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.792838350649589,
+      "longitude" : -76.792823493565464,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.904057176274243,
-      "latitude" : 39.246504131347088,
-      "timeStamp" : 1708054200000,
+      "horizontalAccuracy" : 34.965039424218574,
+      "latitude" : 39.24650189602081,
+      "timeStamp" : 1708055094000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -202,13 +202,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290665856671154,
+      "longitude" : -77.290671324607743,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.171101651335611,
-      "latitude" : 38.757478098847983,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 22.736613736531361,
+      "latitude" : 38.757484131090195,
+      "timeStamp" : 1708055583000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -217,13 +217,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290665856671154,
+      "longitude" : -77.290671324607743,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.171101651335611,
-      "latitude" : 38.757478098847983,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 22.736613736531361,
+      "latitude" : 38.757484131090195,
+      "timeStamp" : 1708055583000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -234,6 +234,124 @@
       "identifier" : 999
     },
     "name" : "Indy"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290656367567209,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757484984752885,
+          "timeStamp" : 1708006760191,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2EQQP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290672307017914,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 22.585197220024728,
+      "latitude" : 38.757468538342245,
+      "timeStamp" : 1708055582000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290672307017914,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 22.585197220024728,
+      "latitude" : 38.757468538342245,
+      "timeStamp" : 1708055582000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🚘",
+      "identifier" : 999
+    },
+    "name" : "Mini Cooper"
   },
   {
     "partInfo" : null,
@@ -418,124 +536,6 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGPL2EQQP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290655706901234,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 22.274520783633434,
-      "latitude" : 38.757435398870122,
-      "timeStamp" : 1708052794000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290655706901234,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 22.274520783633434,
-      "latitude" : 38.757435398870122,
-      "timeStamp" : 1708052794000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🚘",
-      "identifier" : 999
-    },
-    "name" : "Mini Cooper"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290656367567209,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757484984752885,
-          "timeStamp" : 1708006760191,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
     "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
@@ -564,13 +564,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290606684280817,
+      "longitude" : -77.290627272602464,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.020715332711397,
-      "latitude" : 38.757441083722746,
-      "timeStamp" : 1708053734000,
+      "horizontalAccuracy" : 25.712698132579419,
+      "latitude" : 38.75746511390836,
+      "timeStamp" : 1708055584000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -579,13 +579,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290606684280817,
+      "longitude" : -77.290627272602464,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.020715332711397,
-      "latitude" : 38.757441083722746,
-      "timeStamp" : 1708053734000,
+      "horizontalAccuracy" : 25.712698132579419,
+      "latitude" : 38.75746511390836,
+      "timeStamp" : 1708055584000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -685,7 +685,7 @@
       "longitude" : -77.290353614226234,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
+      "isOld" : true,
       "horizontalAccuracy" : 21.411954850177828,
       "latitude" : 38.757093847363208,
       "timeStamp" : 1708051815000,
@@ -700,7 +700,7 @@
       "longitude" : -77.290353614226234,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
+      "isOld" : true,
       "horizontalAccuracy" : 21.411954850177828,
       "latitude" : 38.757093847363208,
       "timeStamp" : 1708051815000,
@@ -800,13 +800,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290651885278933,
+      "longitude" : -77.290684609670848,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 26.160319363803644,
-      "latitude" : 38.75747095120623,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 26.153659662578455,
+      "latitude" : 38.757511866806887,
+      "timeStamp" : 1708055582000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -815,13 +815,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290651885278933,
+      "longitude" : -77.290684609670848,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 26.160319363803644,
-      "latitude" : 38.75747095120623,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 26.153659662578455,
+      "latitude" : 38.757511866806887,
+      "timeStamp" : 1708055582000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -918,13 +918,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290573164641543,
+      "longitude" : -77.290653221833253,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 26.693628927930988,
-      "latitude" : 38.757393607287973,
-      "timeStamp" : 1708053721000,
+      "horizontalAccuracy" : 27.085543081163049,
+      "latitude" : 38.757451854843652,
+      "timeStamp" : 1708055619000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -933,13 +933,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290573164641543,
+      "longitude" : -77.290653221833253,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 26.693628927930988,
-      "latitude" : 38.757393607287973,
-      "timeStamp" : 1708053721000,
+      "horizontalAccuracy" : 27.085543081163049,
+      "latitude" : 38.757451854843652,
+      "timeStamp" : 1708055619000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1036,13 +1036,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290624230683065,
+      "longitude" : -77.290630384411486,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.436074614562763,
-      "latitude" : 38.757460397566724,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 24.088982950956513,
+      "latitude" : 38.757465688242739,
+      "timeStamp" : 1708055583000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1051,13 +1051,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290624230683065,
+      "longitude" : -77.290630384411486,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.436074614562763,
-      "latitude" : 38.757460397566724,
-      "timeStamp" : 1708053725000,
+      "horizontalAccuracy" : 24.088982950956513,
+      "latitude" : 38.757465688242739,
+      "timeStamp" : 1708055583000,
       "altitude" : -1,
       "locationFinished" : true
     },
