@@ -3,6 +3,132 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
+      "type" : "hawkeye",
+      "productInformation" : {
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : true,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 0,
+        "approvalState" : 1,
+        "name" : null,
+        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290593945504796,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.75750670365688,
+          "timeStamp" : 1721830195231,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "NB01GXA2319C0286",
+    "lostModeMetadata" : null,
+    "capabilities" : 158,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7213 Laketree Dr",
+      "streetAddress" : "7213",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7213 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7213 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290689409237913,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 26.385200502781338,
+      "latitude" : 38.757081150419175,
+      "timeStamp" : 1722698928000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "1.0.4",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290689409237913,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 26.385200502781338,
+      "latitude" : 38.757081150419175,
+      "timeStamp" : 1722698928000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🛴",
+      "identifier" : 999
+    },
+    "name" : "Segway Max G2"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
       "type" : "b389",
       "productInformation" : {
         "manufacturerName" : "Apple",
@@ -55,11 +181,11 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGPL2WFNP0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP062P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
+    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
     "address" : {
       "subAdministrativeArea" : null,
       "label" : "Lynden Pindling International Airport",
@@ -83,13 +209,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465802040705171,
+      "longitude" : -77.46576013463087,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.778430395576134,
-      "latitude" : 25.050497760987028,
-      "timeStamp" : 1722699448000,
+      "horizontalAccuracy" : 25.824465421242888,
+      "latitude" : 25.0505779336746,
+      "timeStamp" : 1722700464000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -98,23 +224,141 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465802040705171,
+      "longitude" : -77.46576013463087,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.778430395576134,
-      "latitude" : 25.050497760987028,
-      "timeStamp" : 1722699448000,
+      "horizontalAccuracy" : 25.824465421242888,
+      "latitude" : 25.0505779336746,
+      "timeStamp" : 1722700464000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🧜‍♀️",
+      "identifier" : 999
     },
-    "name" : "2 Laura’s Luggage"
+    "name" : "Virginia"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 0,
+        "approvalState" : 1,
+        "name" : null,
+        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290593945504796,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.75750670365688,
+          "timeStamp" : 1721830195231,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2EQQP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290652875129908,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 25.446286321272254,
+      "latitude" : 38.7572380806415,
+      "timeStamp" : 1722698382000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290652875129908,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 25.446286321272254,
+      "latitude" : 38.7572380806415,
+      "timeStamp" : 1722698382000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🚘",
+      "identifier" : 999
+    },
+    "name" : "Mini Cooper"
   },
   {
     "partInfo" : null,
@@ -290,124 +534,6 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPL2EQQP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7213 Laketree Dr",
-      "streetAddress" : "7213",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7213 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7213 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290552332522992,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 21.616060101296899,
-      "latitude" : 38.757044555975504,
-      "timeStamp" : 1722698382000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.36",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290552332522992,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 21.616060101296899,
-      "latitude" : 38.757044555975504,
-      "timeStamp" : 1722698382000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🚘",
-      "identifier" : 999
-    },
-    "name" : "Mini Cooper"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 0,
-        "approvalState" : 1,
-        "name" : null,
-        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290593945504796,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.75750670365688,
-          "timeStamp" : 1721830195231,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
     "batteryStatus" : 2,
     "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
@@ -436,13 +562,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465847647293401,
+      "longitude" : -77.465666421907599,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 20.035286615579935,
-      "latitude" : 25.050761744963477,
-      "timeStamp" : 1722699448000,
+      "horizontalAccuracy" : 23.083213640017977,
+      "latitude" : 25.050595129201945,
+      "timeStamp" : 1722700549000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -451,13 +577,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465847647293401,
+      "longitude" : -77.465666421907599,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 20.035286615579935,
-      "latitude" : 25.050761744963477,
-      "timeStamp" : 1722699448000,
+      "horizontalAccuracy" : 23.083213640017977,
+      "latitude" : 25.050595129201945,
+      "timeStamp" : 1722700549000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -468,132 +594,6 @@
       "identifier" : 999
     },
     "name" : "Jolene"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : true,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 0,
-        "approvalState" : 1,
-        "name" : null,
-        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290593945504796,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.75750670365688,
-          "timeStamp" : 1721830195231,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 158,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7213 Laketree Dr",
-      "streetAddress" : "7213",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7213 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7213 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290641033750944,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.832853069019045,
-      "latitude" : 38.757006194782491,
-      "timeStamp" : 1722698928000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "1.0.4",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290641033750944,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.832853069019045,
-      "latitude" : 38.757006194782491,
-      "timeStamp" : 1722698928000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🛴",
-      "identifier" : 999
-    },
-    "name" : "Segway Max G2"
   },
   {
     "partInfo" : null,
@@ -652,41 +652,40 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 2,
-    "serialNumber" : "HGHKPUD8P0GV",
+    "serialNumber" : "HGPL2WFNP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
-      "subAdministrativeArea" : "Baltimore",
-      "label" : "Patterson Park",
+      "subAdministrativeArea" : null,
+      "label" : "Lynden Pindling International Airport",
       "streetAddress" : null,
-      "countryCode" : "US",
-      "stateCode" : "MD",
-      "administrativeArea" : "Maryland",
-      "streetName" : null,
+      "countryCode" : "BS",
+      "stateCode" : null,
+      "administrativeArea" : null,
+      "streetName" : "Lynden Pindling International Airport",
       "formattedAddressLines" : [
-        "Patterson Park",
-        "Baltimore, MD  21224",
-        "United States"
+        "Lynden Pindling International Airport",
+        "Bahamas"
       ],
-      "mapItemFullAddress" : "Patterson Park, Baltimore, MD  21224",
-      "fullThroroughfare" : null,
+      "mapItemFullAddress" : "Lynden Pindling International Airport, Bahamas",
+      "fullThroroughfare" : "Lynden Pindling International Airport",
       "areaOfInterest" : [
-        "Patterson Park"
+        "New Providence"
       ],
-      "locality" : "Baltimore",
-      "country" : "United States"
+      "locality" : null,
+      "country" : "Bahamas"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.573065944373155,
+      "longitude" : -77.465797002068626,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 39.7482209077736,
-      "latitude" : 39.286840086684386,
-      "timeStamp" : 1722699287000,
+      "horizontalAccuracy" : 21.073243701445357,
+      "latitude" : 25.050541930181577,
+      "timeStamp" : 1722700553000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -695,23 +694,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.573065944373155,
+      "longitude" : -77.465797002068626,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 39.7482209077736,
-      "latitude" : 39.286840086684386,
-      "timeStamp" : 1722699287000,
+      "horizontalAccuracy" : 21.073243701445357,
+      "latitude" : 25.050541930181577,
+      "timeStamp" : 1722700553000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Indy"
+    "name" : "2 Laura’s Luggage"
   },
   {
     "partInfo" : null,
@@ -798,13 +797,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290504576263558,
+      "longitude" : -77.290505914033005,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.840220851757131,
-      "latitude" : 38.75711085842444,
-      "timeStamp" : 1722698974000,
+      "horizontalAccuracy" : 20.029419050453832,
+      "latitude" : 38.757109076974295,
+      "timeStamp" : 1722699225000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -813,13 +812,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290504576263558,
+      "longitude" : -77.290505914033005,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.840220851757131,
-      "latitude" : 38.75711085842444,
-      "timeStamp" : 1722698974000,
+      "horizontalAccuracy" : 20.029419050453832,
+      "latitude" : 38.757109076974295,
+      "timeStamp" : 1722699225000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -887,41 +886,42 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPKP062P0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGHKPUD8P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
     "address" : {
-      "subAdministrativeArea" : null,
-      "label" : "Lynden Pindling International Airport",
-      "streetAddress" : null,
-      "countryCode" : "BS",
-      "stateCode" : null,
-      "administrativeArea" : null,
-      "streetName" : "Lynden Pindling International Airport",
+      "subAdministrativeArea" : "Baltimore",
+      "label" : "508 S Decker Ave",
+      "streetAddress" : "508",
+      "countryCode" : "US",
+      "stateCode" : "MD",
+      "administrativeArea" : "Maryland",
+      "streetName" : "S Decker Ave",
       "formattedAddressLines" : [
-        "Lynden Pindling International Airport",
-        "Bahamas"
+        "508 S Decker Ave",
+        "Baltimore, MD  21224",
+        "United States"
       ],
-      "mapItemFullAddress" : "Lynden Pindling International Airport, Bahamas",
-      "fullThroroughfare" : "Lynden Pindling International Airport",
+      "mapItemFullAddress" : "508 S Decker Ave, Baltimore, MD  21224",
+      "fullThroroughfare" : "508 S Decker Ave",
       "areaOfInterest" : [
-        "New Providence"
+
       ],
-      "locality" : null,
-      "country" : "Bahamas"
+      "locality" : "Baltimore",
+      "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465816506368455,
+      "longitude" : -76.573683054785548,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.431797816884181,
-      "latitude" : 25.050489669641042,
-      "timeStamp" : 1722699087000,
+      "horizontalAccuracy" : 21.664310064336902,
+      "latitude" : 39.285875665096782,
+      "timeStamp" : 1722700772000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -930,23 +930,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465816506368455,
+      "longitude" : -76.573683054785548,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.431797816884181,
-      "latitude" : 25.050489669641042,
-      "timeStamp" : 1722699087000,
+      "horizontalAccuracy" : 21.664310064336902,
+      "latitude" : 39.285875665096782,
+      "timeStamp" : 1722700772000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🧜‍♀️",
+      "emoji" : "🐕‍🦺",
       "identifier" : 999
     },
-    "name" : "Virginia"
+    "name" : "Indy"
   },
   {
     "partInfo" : null,
@@ -1011,20 +1011,19 @@
     "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
       "subAdministrativeArea" : null,
-      "label" : "Lynden Pindling International Airport",
+      "label" : "Bahamas",
       "streetAddress" : null,
       "countryCode" : "BS",
       "stateCode" : null,
       "administrativeArea" : null,
-      "streetName" : "Lynden Pindling International Airport",
+      "streetName" : null,
       "formattedAddressLines" : [
-        "Lynden Pindling International Airport",
         "Bahamas"
       ],
-      "mapItemFullAddress" : "Lynden Pindling International Airport, Bahamas",
-      "fullThroroughfare" : "Lynden Pindling International Airport",
+      "mapItemFullAddress" : "Bahamas",
+      "fullThroroughfare" : null,
       "areaOfInterest" : [
-        "New Providence"
+
       ],
       "locality" : null,
       "country" : "Bahamas"
@@ -1032,13 +1031,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465830690254634,
+      "longitude" : -77.402195800000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.52377105778168,
-      "latitude" : 25.050596076873717,
-      "timeStamp" : 1722699447000,
+      "horizontalAccuracy" : 508.89588365913852,
+      "latitude" : 25.055677800000002,
+      "timeStamp" : 1722701035000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1047,13 +1046,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.465830690254634,
+      "longitude" : -77.402195800000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 28.52377105778168,
-      "latitude" : 25.050596076873717,
-      "timeStamp" : 1722699447000,
+      "horizontalAccuracy" : 508.89588365913852,
+      "latitude" : 25.055677800000002,
+      "timeStamp" : 1722701035000,
       "altitude" : -1,
       "locationFinished" : true
     },
