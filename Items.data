@@ -3,13 +3,21 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
-      "type" : "b389",
+      "type" : "hawkeye",
       "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : true,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
       }
     },
     "safeLocations" : [
@@ -55,68 +63,67 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPKP0BAP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "NB01GXA2319C0286",
     "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
+    "capabilities" : 158,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "Burke Lake Park",
-      "streetAddress" : "7270–7338",
+      "label" : "7213 Laketree Dr",
+      "streetAddress" : "7213",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "Burke Lake Park",
-        "7270–7338 Laketree Dr",
-        "Burke, VA  22039",
+        "7213 Laketree Dr",
+        "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "Burke Lake Park, 7270–7338 Laketree Dr, Burke, VA  22039",
-      "fullThroroughfare" : "7270–7338 Laketree Dr",
+      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7213 Laketree Dr",
       "areaOfInterest" : [
-        "Burke Lake Park"
+
       ],
-      "locality" : "Burke",
+      "locality" : "Fairfax Station",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291218097554733,
+      "longitude" : -77.290651044281091,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 18.3949517881146,
-      "latitude" : 38.756753780458745,
-      "timeStamp" : 1722847251000,
+      "isOld" : true,
+      "horizontalAccuracy" : 21.191319638348077,
+      "latitude" : 38.757130278980931,
+      "timeStamp" : 1722821490000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "1.0.291",
+    "systemVersion" : "1.0.4",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291218097554733,
+      "longitude" : -77.290651044281091,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 18.3949517881146,
-      "latitude" : 38.756753780458745,
-      "timeStamp" : 1722847251000,
+      "isOld" : true,
+      "horizontalAccuracy" : 21.191319638348077,
+      "latitude" : 38.757130278980931,
+      "timeStamp" : 1722821490000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🚐",
+      "emoji" : "🛴",
       "identifier" : 999
     },
-    "name" : "Minivan"
+    "name" : "Segway Max G2"
   },
   {
     "partInfo" : null,
@@ -299,19 +306,19 @@
     "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7211 Laketree Dr",
-      "streetAddress" : "7211",
+      "label" : "7212 Laketree Dr",
+      "streetAddress" : "7212",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7211 Laketree Dr",
+        "7212 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7211 Laketree Dr",
+      "mapItemFullAddress" : "7212 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7212 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -321,13 +328,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290518293854817,
+      "longitude" : -77.291086333045669,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 21.118317131369064,
-      "latitude" : 38.757164188966158,
-      "timeStamp" : 1722846944000,
+      "horizontalAccuracy" : 33.746970554363386,
+      "latitude" : 38.757253012745274,
+      "timeStamp" : 1722850562000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -336,13 +343,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290518293854817,
+      "longitude" : -77.291086333045669,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 21.118317131369064,
-      "latitude" : 38.757164188966158,
-      "timeStamp" : 1722846944000,
+      "horizontalAccuracy" : 33.746970554363386,
+      "latitude" : 38.757253012745274,
+      "timeStamp" : 1722850562000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -410,152 +417,26 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
-    "address" : {
-      "subAdministrativeArea" : null,
-      "label" : "Paradise Island",
-      "streetAddress" : null,
-      "countryCode" : "BS",
-      "stateCode" : null,
-      "administrativeArea" : null,
-      "streetName" : null,
-      "formattedAddressLines" : [
-        "Paradise Island",
-        "Nassau",
-        "Bahamas"
-      ],
-      "mapItemFullAddress" : "Paradise Island, Nassau, Bahamas",
-      "fullThroroughfare" : null,
-      "areaOfInterest" : [
-        "Paradise Island"
-      ],
-      "locality" : "Nassau",
-      "country" : "Bahamas"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.319719401242125,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 28.7124213913145,
-      "latitude" : 25.084076908003325,
-      "timeStamp" : 1722849310000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.73",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.319719401242125,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 28.7124213913145,
-      "latitude" : 25.084076908003325,
-      "timeStamp" : 1722849310000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
-    },
-    "name" : "Jolene"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : true,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 0,
-        "approvalState" : 1,
-        "name" : null,
-        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290593945504796,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.75750670365688,
-          "timeStamp" : 1721830195231,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 158,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7213 Laketree Dr",
-      "streetAddress" : "7213",
+      "label" : "7211 Laketree Dr",
+      "streetAddress" : "7211",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7213 Laketree Dr",
+        "7211 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7213 Laketree Dr",
+      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7211 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -565,156 +446,38 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290651044281091,
+      "longitude" : -77.290460626475408,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 21.191319638348077,
-      "latitude" : 38.757130278980931,
-      "timeStamp" : 1722821490000,
+      "isOld" : false,
+      "horizontalAccuracy" : 25.006754976314753,
+      "latitude" : 38.757054604556586,
+      "timeStamp" : 1722849057000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "1.0.4",
+    "systemVersion" : "1.0.291",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290651044281091,
+      "longitude" : -77.290460626475408,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 21.191319638348077,
-      "latitude" : 38.757130278980931,
-      "timeStamp" : 1722821490000,
+      "isOld" : false,
+      "horizontalAccuracy" : 25.006754976314753,
+      "latitude" : 38.757054604556586,
+      "timeStamp" : 1722849057000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🛴",
+      "emoji" : "🚐",
       "identifier" : 999
     },
-    "name" : "Segway Max G2"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 0,
-        "approvalState" : 1,
-        "name" : null,
-        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290593945504796,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.75750670365688,
-          "timeStamp" : 1721830195231,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPL2VVXP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
-    "address" : {
-      "subAdministrativeArea" : null,
-      "label" : "Paradise Island",
-      "streetAddress" : null,
-      "countryCode" : "BS",
-      "stateCode" : null,
-      "administrativeArea" : null,
-      "streetName" : null,
-      "formattedAddressLines" : [
-        "Paradise Island",
-        "Nassau",
-        "Bahamas"
-      ],
-      "mapItemFullAddress" : "Paradise Island, Nassau, Bahamas",
-      "fullThroroughfare" : null,
-      "areaOfInterest" : [
-        "Paradise Island"
-      ],
-      "locality" : "Nassau",
-      "country" : "Bahamas"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.319684431553156,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 33.24700085765847,
-      "latitude" : 25.084170757526621,
-      "timeStamp" : 1722849161000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.73",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.319684431553156,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 33.24700085765847,
-      "latitude" : 25.084170757526621,
-      "timeStamp" : 1722849161000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "name" : "1 Daniel’s Luggage"
+    "name" : "Minivan"
   },
   {
     "partInfo" : null,
@@ -801,13 +564,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.319670840558516,
+      "longitude" : -77.319714097314815,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.347772955398668,
-      "latitude" : 25.084164569655623,
-      "timeStamp" : 1722849151000,
+      "horizontalAccuracy" : 26.859865621393453,
+      "latitude" : 25.084100320604577,
+      "timeStamp" : 1722851133000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -816,13 +579,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.319670840558516,
+      "longitude" : -77.319714097314815,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.347772955398668,
-      "latitude" : 25.084164569655623,
-      "timeStamp" : 1722849151000,
+      "horizontalAccuracy" : 26.859865621393453,
+      "latitude" : 25.084100320604577,
+      "timeStamp" : 1722851133000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -891,41 +654,41 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 2,
-    "serialNumber" : "HGHKPUD8P0GV",
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
-      "subAdministrativeArea" : "Baltimore",
-      "label" : "512 S Decker Ave",
-      "streetAddress" : "512",
-      "countryCode" : "US",
-      "stateCode" : "MD",
-      "administrativeArea" : "Maryland",
-      "streetName" : "S Decker Ave",
+      "subAdministrativeArea" : null,
+      "label" : "Paradise Island",
+      "streetAddress" : null,
+      "countryCode" : "BS",
+      "stateCode" : null,
+      "administrativeArea" : null,
+      "streetName" : null,
       "formattedAddressLines" : [
-        "512 S Decker Ave",
-        "Baltimore, MD  21224",
-        "United States"
+        "Paradise Island",
+        "Nassau",
+        "Bahamas"
       ],
-      "mapItemFullAddress" : "512 S Decker Ave, Baltimore, MD  21224",
-      "fullThroroughfare" : "512 S Decker Ave",
+      "mapItemFullAddress" : "Paradise Island, Nassau, Bahamas",
+      "fullThroroughfare" : null,
       "areaOfInterest" : [
-
+        "Paradise Island"
       ],
-      "locality" : "Baltimore",
-      "country" : "United States"
+      "locality" : "Nassau",
+      "country" : "Bahamas"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.57366699593949,
+      "longitude" : -77.3196959505009,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 31.674007565368097,
-      "latitude" : 39.285830708169144,
-      "timeStamp" : 1722848703000,
+      "horizontalAccuracy" : 34.239068555714312,
+      "latitude" : 25.084160067959921,
+      "timeStamp" : 1722851085000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -934,23 +697,141 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.57366699593949,
+      "longitude" : -77.3196959505009,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 31.674007565368097,
-      "latitude" : 39.285830708169144,
-      "timeStamp" : 1722848703000,
+      "horizontalAccuracy" : 34.239068555714312,
+      "latitude" : 25.084160067959921,
+      "timeStamp" : 1722851085000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
+      "emoji" : "🦄",
       "identifier" : 999
     },
-    "name" : "Indy"
+    "name" : "Jolene"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 0,
+        "approvalState" : 1,
+        "name" : null,
+        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290593945504796,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.75750670365688,
+          "timeStamp" : 1721830195231,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPL2VVXP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "address" : {
+      "subAdministrativeArea" : null,
+      "label" : "Paradise Island",
+      "streetAddress" : null,
+      "countryCode" : "BS",
+      "stateCode" : null,
+      "administrativeArea" : null,
+      "streetName" : null,
+      "formattedAddressLines" : [
+        "Paradise Island",
+        "Nassau",
+        "Bahamas"
+      ],
+      "mapItemFullAddress" : "Paradise Island, Nassau, Bahamas",
+      "fullThroroughfare" : null,
+      "areaOfInterest" : [
+        "Paradise Island"
+      ],
+      "locality" : "Nassau",
+      "country" : "Bahamas"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.319728781229486,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 26.746668850006905,
+      "latitude" : 25.084107799389134,
+      "timeStamp" : 1722850989000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.73",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.319728781229486,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 26.746668850006905,
+      "latitude" : 25.084107799389134,
+      "timeStamp" : 1722850989000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
+    },
+    "name" : "1 Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -1037,13 +918,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.319669132415129,
+      "longitude" : -77.319692447450834,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.344828161308968,
-      "latitude" : 25.084157576355512,
-      "timeStamp" : 1722849284000,
+      "horizontalAccuracy" : 32.61634683088532,
+      "latitude" : 25.084163712124578,
+      "timeStamp" : 1722851124000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1052,13 +933,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.319669132415129,
+      "longitude" : -77.319692447450834,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 34.344828161308968,
-      "latitude" : 25.084157576355512,
-      "timeStamp" : 1722849284000,
+      "horizontalAccuracy" : 32.61634683088532,
+      "latitude" : 25.084163712124578,
+      "timeStamp" : 1722851124000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1069,5 +950,123 @@
       "identifier" : 7
     },
     "name" : "2 Laura’s Luggage"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 0,
+        "approvalState" : 1,
+        "name" : null,
+        "identifier" : "4017C979-0041-4F74-A712-AA87ACB6C958",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290593945504796,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.75750670365688,
+          "timeStamp" : 1721830195231,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGHKPUD8P0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "address" : {
+      "subAdministrativeArea" : "Baltimore",
+      "label" : "512 S Decker Ave",
+      "streetAddress" : "512",
+      "countryCode" : "US",
+      "stateCode" : "MD",
+      "administrativeArea" : "Maryland",
+      "streetName" : "S Decker Ave",
+      "formattedAddressLines" : [
+        "512 S Decker Ave",
+        "Baltimore, MD  21224",
+        "United States"
+      ],
+      "mapItemFullAddress" : "512 S Decker Ave, Baltimore, MD  21224",
+      "fullThroroughfare" : "512 S Decker Ave",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Baltimore",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -76.573712342575959,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 21.919423419204985,
+      "latitude" : 39.285806051976635,
+      "timeStamp" : 1722851218000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.73",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -76.573712342575959,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 21.919423419204985,
+      "latitude" : 39.285806051976635,
+      "timeStamp" : 1722851218000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🐕‍🦺",
+      "identifier" : 999
+    },
+    "name" : "Indy"
   }
 ]
