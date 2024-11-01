@@ -3,6 +3,132 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
+      "type" : "hawkeye",
+      "productInformation" : {
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : true,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290687770761465,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757495110815384,
+          "timeStamp" : 1730382139796,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "NB01GXA2319C0286",
+    "lostModeMetadata" : null,
+    "capabilities" : 158,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290536239587112,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 16.42941145447347,
+      "latitude" : 38.757277294597095,
+      "timeStamp" : 1730486599000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "1.0.4",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290536239587112,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 16.42941145447347,
+      "latitude" : 38.757277294597095,
+      "timeStamp" : 1730486599000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🛴",
+      "identifier" : 999
+    },
+    "name" : "Segway Max G2"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
       "type" : "b389",
       "productInformation" : {
         "manufacturerName" : "Apple",
@@ -55,68 +181,67 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPKP0BAP0GV",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGPL2WFNP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
+    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
-      "subAdministrativeArea" : "Anne Arundel County",
-      "label" : "Baltimore\/Washington International Thurgood Marshall Airport",
-      "streetAddress" : null,
+      "subAdministrativeArea" : "Orange County",
+      "label" : "1869–1913 Hotel Plaza Blvd",
+      "streetAddress" : "1869–1913",
       "countryCode" : "US",
-      "stateCode" : "MD",
-      "administrativeArea" : "Maryland",
-      "streetName" : "Elm Rd",
+      "stateCode" : "FL",
+      "administrativeArea" : "Florida",
+      "streetName" : "Hotel Plaza Blvd",
       "formattedAddressLines" : [
-        "Baltimore\/Washington International Thurgood Marshall Airport",
-        "Elm Rd",
-        "Glen Burnie, MD  21240",
+        "1869–1913 Hotel Plaza Blvd",
+        "Orlando, FL  32830",
         "United States"
       ],
-      "mapItemFullAddress" : "Baltimore\/Washington International Thurgood Marshall Airport, Elm Rd, Glen Burnie, MD  21240",
-      "fullThroroughfare" : "Elm Rd",
+      "mapItemFullAddress" : "1869–1913 Hotel Plaza Blvd, Orlando, FL  32830",
+      "fullThroroughfare" : "1869–1913 Hotel Plaza Blvd",
       "areaOfInterest" : [
-        "Baltimore\/Washington International Thurgood Marshall Airport"
+
       ],
-      "locality" : "Glen Burnie",
+      "locality" : "Lake Buena Vista",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.674580701918131,
+      "longitude" : -81.509694400000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 149.04841181361934,
-      "latitude" : 39.186319311989145,
-      "timeStamp" : 1730487333000,
+      "horizontalAccuracy" : 15.266969369965606,
+      "latitude" : 28.374949899999987,
+      "timeStamp" : 1730489223000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "1.0.291",
+    "systemVersion" : "2.0.73",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.674580701918131,
+      "longitude" : -81.509694400000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 149.04841181361934,
-      "latitude" : 39.186319311989145,
-      "timeStamp" : 1730487333000,
+      "horizontalAccuracy" : 15.266969369965606,
+      "latitude" : 28.374949899999987,
+      "timeStamp" : 1730489223000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🚐",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Minivan"
+    "name" : "2 Laura’s Luggage"
   },
   {
     "partInfo" : null,
@@ -181,19 +306,19 @@
     "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
+      "label" : "7211 Laketree Dr",
+      "streetAddress" : "7211",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7210 Laketree Dr",
+        "7211 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
+      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7211 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -203,12 +328,12 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290665415062065,
+      "longitude" : -77.290439911916835,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 16.301825368839303,
-      "latitude" : 38.757212453599131,
+      "horizontalAccuracy" : 17.499872807582658,
+      "latitude" : 38.757227491727214,
       "timeStamp" : 1730486973000,
       "altitude" : -1,
       "locationFinished" : true
@@ -218,12 +343,12 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290665415062065,
+      "longitude" : -77.290439911916835,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 16.301825368839303,
-      "latitude" : 38.757212453599131,
+      "horizontalAccuracy" : 17.499872807582658,
+      "latitude" : 38.757227491727214,
       "timeStamp" : 1730486973000,
       "altitude" : -1,
       "locationFinished" : true
@@ -293,42 +418,41 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 4,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "serialNumber" : "HGHKPUD8P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
     "address" : {
-      "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando International Airport",
-      "streetAddress" : "5609–7729",
+      "subAdministrativeArea" : "Howard County",
+      "label" : "5302 Chase Lions Way",
+      "streetAddress" : "5302",
       "countryCode" : "US",
-      "stateCode" : "FL",
-      "administrativeArea" : "Florida",
-      "streetName" : "Airport Blvd",
+      "stateCode" : "MD",
+      "administrativeArea" : "Maryland",
+      "streetName" : "Chase Lions Way",
       "formattedAddressLines" : [
-        "Orlando International Airport",
-        "5609–7729 Airport Blvd",
-        "Orlando, FL  32827",
+        "5302 Chase Lions Way",
+        "Columbia, MD  21044",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando International Airport, 5609–7729 Airport Blvd, Orlando, FL  32827",
-      "fullThroroughfare" : "5609–7729 Airport Blvd",
+      "mapItemFullAddress" : "5302 Chase Lions Way, Columbia, MD  21044",
+      "fullThroroughfare" : "5302 Chase Lions Way",
       "areaOfInterest" : [
-        "Orlando International Airport"
+
       ],
-      "locality" : "Orlando",
+      "locality" : "Columbia",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.307666860944451,
+      "longitude" : -76.846519857244914,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.245183257150845,
-      "latitude" : 28.430135527771473,
-      "timeStamp" : 1730487317000,
+      "horizontalAccuracy" : 20.009155316049601,
+      "latitude" : 39.234269432690752,
+      "timeStamp" : 1730489501000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -337,23 +461,23 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.307666860944451,
+      "longitude" : -76.846519857244914,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 30.245183257150845,
-      "latitude" : 28.430135527771473,
-      "timeStamp" : 1730487317000,
+      "horizontalAccuracy" : 20.009155316049601,
+      "latitude" : 39.234269432690752,
+      "timeStamp" : 1730489501000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🦄",
+      "emoji" : "🐕‍🦺",
       "identifier" : 999
     },
-    "name" : "Jolene"
+    "name" : "Indy"
   },
   {
     "partInfo" : null,
@@ -536,36 +660,35 @@
     "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
     "address" : {
       "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando International Airport",
-      "streetAddress" : "5609–7729",
+      "label" : "12741–12781 SR-535 N",
+      "streetAddress" : "12741–12781",
       "countryCode" : "US",
       "stateCode" : "FL",
       "administrativeArea" : "Florida",
-      "streetName" : "Airport Blvd",
+      "streetName" : "SR-535 N",
       "formattedAddressLines" : [
-        "Orlando International Airport",
-        "5609–7729 Airport Blvd",
-        "Orlando, FL  32827",
+        "12741–12781 SR-535 N",
+        "Orlando, FL  32836",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando International Airport, 5609–7729 Airport Blvd, Orlando, FL  32827",
-      "fullThroroughfare" : "5609–7729 Airport Blvd",
+      "mapItemFullAddress" : "12741–12781 SR-535 N, Orlando, FL  32836",
+      "fullThroroughfare" : "12741–12781 SR-535 N",
       "areaOfInterest" : [
-        "Orlando International Airport"
+
       ],
-      "locality" : "Orlando",
+      "locality" : "Lake Buena Vista",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.308002164931978,
+      "longitude" : -81.505075300000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.094032880134492,
-      "latitude" : 28.430117341561544,
-      "timeStamp" : 1730487136000,
+      "horizontalAccuracy" : 23.96643632991276,
+      "latitude" : 28.380528100000006,
+      "timeStamp" : 1730489116000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -574,13 +697,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.308002164931978,
+      "longitude" : -81.505075300000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.094032880134492,
-      "latitude" : 28.430117341561544,
-      "timeStamp" : 1730487136000,
+      "horizontalAccuracy" : 23.96643632991276,
+      "latitude" : 28.380528100000006,
+      "timeStamp" : 1730489116000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -648,43 +771,42 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGPL2VVXP0GV",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
       "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando International Airport",
-      "streetAddress" : "5609–7729",
+      "label" : "12618–12876 SR-535 S",
+      "streetAddress" : "12618–12876",
       "countryCode" : "US",
       "stateCode" : "FL",
       "administrativeArea" : "Florida",
-      "streetName" : "Airport Blvd",
+      "streetName" : "SR-535 S",
       "formattedAddressLines" : [
-        "Orlando International Airport",
-        "5609–7729 Airport Blvd",
-        "Orlando, FL  32827",
+        "12618–12876 SR-535 S",
+        "Orlando, FL  32830",
         "United States"
       ],
-      "mapItemFullAddress" : "Orlando International Airport, 5609–7729 Airport Blvd, Orlando, FL  32827",
-      "fullThroroughfare" : "5609–7729 Airport Blvd",
+      "mapItemFullAddress" : "12618–12876 SR-535 S, Orlando, FL  32830",
+      "fullThroroughfare" : "12618–12876 SR-535 S",
       "areaOfInterest" : [
-        "Orlando International Airport"
+
       ],
-      "locality" : "Orlando",
+      "locality" : "Lake Buena Vista",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.308002231222417,
+      "longitude" : -81.5053755,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.063354777320729,
-      "latitude" : 28.43016884925613,
-      "timeStamp" : 1730487400000,
+      "horizontalAccuracy" : 22.532199312005645,
+      "latitude" : 28.381274600000005,
+      "timeStamp" : 1730489123000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -693,13 +815,131 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.308002231222417,
+      "longitude" : -81.5053755,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.063354777320729,
-      "latitude" : 28.43016884925613,
-      "timeStamp" : 1730487400000,
+      "horizontalAccuracy" : 22.532199312005645,
+      "latitude" : 28.381274600000005,
+      "timeStamp" : 1730489123000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🦄",
+      "identifier" : 999
+    },
+    "name" : "Jolene"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290687770761465,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757495110815384,
+          "timeStamp" : 1730382139796,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGPL2VVXP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "address" : {
+      "subAdministrativeArea" : "Orange County",
+      "label" : "12801 S Apopka-Vineland Rd",
+      "streetAddress" : "12801",
+      "countryCode" : "US",
+      "stateCode" : "FL",
+      "administrativeArea" : "Florida",
+      "streetName" : "S Apopka-Vineland Rd",
+      "formattedAddressLines" : [
+        "12801 S Apopka-Vineland Rd",
+        "Orlando, FL  32836",
+        "United States"
+      ],
+      "mapItemFullAddress" : "12801 S Apopka-Vineland Rd, Orlando, FL  32836",
+      "fullThroroughfare" : "12801 S Apopka-Vineland Rd",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Orlando",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -81.504491055096906,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 28.162263849624807,
+      "latitude" : 28.378606568192332,
+      "timeStamp" : 1730489089000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.73",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -81.504491055096906,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 28.162263849624807,
+      "latitude" : 28.378606568192332,
+      "timeStamp" : 1730489089000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -715,132 +955,6 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : true,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290687770761465,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757495110815384,
-          "timeStamp" : 1730382139796,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 158,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290605506097762,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 16.505368526080289,
-      "latitude" : 38.757250439377216,
-      "timeStamp" : 1730486599000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "1.0.4",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290605506097762,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 16.505368526080289,
-      "latitude" : 38.757250439377216,
-      "timeStamp" : 1730486599000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🛴",
-      "identifier" : 999
-    },
-    "name" : "Segway Max G2"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
       "type" : "b389",
       "productInformation" : {
         "manufacturerName" : "Apple",
@@ -893,185 +1007,67 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGHKPUD8P0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
     "address" : {
-      "subAdministrativeArea" : "Howard County",
-      "label" : "5552 April Journey",
-      "streetAddress" : "5552",
+      "subAdministrativeArea" : "Anne Arundel County",
+      "label" : "Baltimore\/Washington International Thurgood Marshall Airport",
+      "streetAddress" : "7062",
       "countryCode" : "US",
       "stateCode" : "MD",
       "administrativeArea" : "Maryland",
-      "streetName" : "April Journey",
+      "streetName" : "Elm Rd",
       "formattedAddressLines" : [
-        "5552 April Journey",
-        "Columbia, MD  21044",
+        "Baltimore\/Washington International Thurgood Marshall Airport",
+        "7062 Elm Rd",
+        "Glen Burnie, MD  21240",
         "United States"
       ],
-      "mapItemFullAddress" : "5552 April Journey, Columbia, MD  21044",
-      "fullThroroughfare" : "5552 April Journey",
+      "mapItemFullAddress" : "Baltimore\/Washington International Thurgood Marshall Airport, 7062 Elm Rd, Glen Burnie, MD  21240",
+      "fullThroroughfare" : "7062 Elm Rd",
       "areaOfInterest" : [
-
+        "Baltimore\/Washington International Thurgood Marshall Airport"
       ],
-      "locality" : "Columbia",
+      "locality" : "Glen Burnie",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.8484306,
+      "longitude" : -76.675361250151596,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.012665711517215,
-      "latitude" : 39.233125999999984,
-      "timeStamp" : 1730487486000,
+      "horizontalAccuracy" : 47.456753985084248,
+      "latitude" : 39.186554770857995,
+      "timeStamp" : 1730487333000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "2.0.73",
+    "systemVersion" : "1.0.291",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.8484306,
+      "longitude" : -76.675361250151596,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 25.012665711517215,
-      "latitude" : 39.233125999999984,
-      "timeStamp" : 1730487486000,
+      "horizontalAccuracy" : 47.456753985084248,
+      "latitude" : 39.186554770857995,
+      "timeStamp" : 1730487333000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
+      "emoji" : "🚐",
       "identifier" : 999
     },
-    "name" : "Indy"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290687770761465,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757495110815384,
-          "timeStamp" : 1730382139796,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGPL2WFNP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
-    "address" : {
-      "subAdministrativeArea" : "Orange County",
-      "label" : "Orlando International Airport",
-      "streetAddress" : "5609–7729",
-      "countryCode" : "US",
-      "stateCode" : "FL",
-      "administrativeArea" : "Florida",
-      "streetName" : "Airport Blvd",
-      "formattedAddressLines" : [
-        "Orlando International Airport",
-        "5609–7729 Airport Blvd",
-        "Orlando, FL  32827",
-        "United States"
-      ],
-      "mapItemFullAddress" : "Orlando International Airport, 5609–7729 Airport Blvd, Orlando, FL  32827",
-      "fullThroroughfare" : "5609–7729 Airport Blvd",
-      "areaOfInterest" : [
-        "Orlando International Airport"
-      ],
-      "locality" : "Orlando",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.308121196903514,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 26.068921638871576,
-      "latitude" : 28.429986180016495,
-      "timeStamp" : 1730487393000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.73",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.308121196903514,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 26.068921638871576,
-      "latitude" : 28.429986180016495,
-      "timeStamp" : 1730487393000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "name" : "2 Laura’s Luggage"
+    "name" : "Minivan"
   }
 ]
