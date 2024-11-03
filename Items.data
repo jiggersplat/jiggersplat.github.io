@@ -55,68 +55,67 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGPKP0BAP0GV",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
-      "subAdministrativeArea" : "Anne Arundel County",
-      "label" : "Baltimore\/Washington International Thurgood Marshall Airport",
-      "streetAddress" : "7062",
+      "subAdministrativeArea" : "Orange County",
+      "label" : "Universal Orlando Resort",
+      "streetAddress" : null,
       "countryCode" : "US",
-      "stateCode" : "MD",
-      "administrativeArea" : "Maryland",
-      "streetName" : "Elm Rd",
+      "stateCode" : "FL",
+      "administrativeArea" : "Florida",
+      "streetName" : null,
       "formattedAddressLines" : [
-        "Baltimore\/Washington International Thurgood Marshall Airport",
-        "7062 Elm Rd",
-        "Glen Burnie, MD  21240",
+        "Universal Orlando Resort",
+        "Orlando, FL  32819",
         "United States"
       ],
-      "mapItemFullAddress" : "Baltimore\/Washington International Thurgood Marshall Airport, 7062 Elm Rd, Glen Burnie, MD  21240",
-      "fullThroroughfare" : "7062 Elm Rd",
+      "mapItemFullAddress" : "Universal Orlando Resort, Orlando, FL  32819",
+      "fullThroroughfare" : null,
       "areaOfInterest" : [
-        "Baltimore\/Washington International Thurgood Marshall Airport"
+        "Universal Orlando Resort"
       ],
-      "locality" : "Glen Burnie",
+      "locality" : "Orlando",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.675546948541125,
+      "longitude" : -81.461966793892273,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 28.102639999644389,
-      "latitude" : 39.186577606340514,
-      "timeStamp" : 1730645426000,
+      "isOld" : false,
+      "horizontalAccuracy" : 27.587980603294547,
+      "latitude" : 28.480210155387692,
+      "timeStamp" : 1730655665000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "1.0.291",
+    "systemVersion" : "2.0.73",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.675546948541125,
+      "longitude" : -81.461966793892273,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 28.102639999644389,
-      "latitude" : 39.186577606340514,
-      "timeStamp" : 1730645426000,
+      "isOld" : false,
+      "horizontalAccuracy" : 27.587980603294547,
+      "latitude" : 28.480210155387692,
+      "timeStamp" : 1730655665000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🚐",
+      "emoji" : "🦄",
       "identifier" : 999
     },
-    "name" : "Minivan"
+    "name" : "Jolene"
   },
   {
     "partInfo" : null,
@@ -211,12 +210,12 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.29042808114383,
+      "longitude" : -77.290427495168274,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 21.408119954510052,
-      "latitude" : 38.757281736296683,
+      "isOld" : true,
+      "horizontalAccuracy" : 21.138253851476321,
+      "latitude" : 38.757275516085841,
       "timeStamp" : 1730651629000,
       "altitude" : -1,
       "locationFinished" : true
@@ -226,12 +225,12 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.29042808114383,
+      "longitude" : -77.290427495168274,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 21.408119954510052,
-      "latitude" : 38.757281736296683,
+      "isOld" : true,
+      "horizontalAccuracy" : 21.138253851476321,
+      "latitude" : 38.757275516085841,
       "timeStamp" : 1730651629000,
       "altitude" : -1,
       "locationFinished" : true
@@ -243,6 +242,242 @@
       "identifier" : 999
     },
     "name" : "Segway Max G2"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290687770761465,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757495110815384,
+          "timeStamp" : 1730382139796,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGPL2EQQP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7213 Laketree Dr",
+      "streetAddress" : "7213",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7213 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7213 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7213 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290868035085921,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 48.813265410753445,
+      "latitude" : 38.756814306364888,
+      "timeStamp" : 1730655144000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.36",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290868035085921,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 48.813265410753445,
+      "latitude" : 38.756814306364888,
+      "timeStamp" : 1730655144000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🚘",
+      "identifier" : 999
+    },
+    "name" : "Mini Cooper"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290687770761465,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757495110815384,
+          "timeStamp" : 1730382139796,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGHKPUD8P0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 254,
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "address" : {
+      "subAdministrativeArea" : "Howard County",
+      "label" : "5300 Chase Lions Way",
+      "streetAddress" : "5300",
+      "countryCode" : "US",
+      "stateCode" : "MD",
+      "administrativeArea" : "Maryland",
+      "streetName" : "Chase Lions Way",
+      "formattedAddressLines" : [
+        "5300 Chase Lions Way",
+        "Columbia, MD  21044",
+        "United States"
+      ],
+      "mapItemFullAddress" : "5300 Chase Lions Way, Columbia, MD  21044",
+      "fullThroroughfare" : "5300 Chase Lions Way",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Columbia",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -76.846425988754078,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 17.564627736653041,
+      "latitude" : 39.234233422997683,
+      "timeStamp" : 1730655687000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "systemVersion" : "2.0.73",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -76.846425988754078,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 17.564627736653041,
+      "latitude" : 39.234233422997683,
+      "timeStamp" : 1730655687000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🐕‍🦺",
+      "identifier" : 999
+    },
+    "name" : "Indy"
   },
   {
     "partInfo" : null,
@@ -418,303 +653,68 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
     "address" : {
-      "subAdministrativeArea" : "Orange County",
-      "label" : "Universal Orlando Resort",
-      "streetAddress" : null,
-      "countryCode" : "US",
-      "stateCode" : "FL",
-      "administrativeArea" : "Florida",
-      "streetName" : null,
-      "formattedAddressLines" : [
-        "Universal Orlando Resort",
-        "Orlando, FL  32819",
-        "United States"
-      ],
-      "mapItemFullAddress" : "Universal Orlando Resort, Orlando, FL  32819",
-      "fullThroroughfare" : null,
-      "areaOfInterest" : [
-        "Universal Orlando Resort"
-      ],
-      "locality" : "Orlando",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.461896751785616,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.093929253361729,
-      "latitude" : 28.480096213335564,
-      "timeStamp" : 1730653484000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.73",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.461896751785616,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.093929253361729,
-      "latitude" : 28.480096213335564,
-      "timeStamp" : 1730653484000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
-    },
-    "name" : "Jolene"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290687770761465,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757495110815384,
-          "timeStamp" : 1730382139796,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGHKPUD8P0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
-    "address" : {
-      "subAdministrativeArea" : "Howard County",
-      "label" : "5300 Chase Lions Way",
-      "streetAddress" : "5300",
+      "subAdministrativeArea" : "Anne Arundel County",
+      "label" : "Baltimore\/Washington International Thurgood Marshall Airport",
+      "streetAddress" : "7062",
       "countryCode" : "US",
       "stateCode" : "MD",
       "administrativeArea" : "Maryland",
-      "streetName" : "Chase Lions Way",
+      "streetName" : "Elm Rd",
       "formattedAddressLines" : [
-        "5300 Chase Lions Way",
-        "Columbia, MD  21044",
+        "Baltimore\/Washington International Thurgood Marshall Airport",
+        "7062 Elm Rd",
+        "Glen Burnie, MD  21240",
         "United States"
       ],
-      "mapItemFullAddress" : "5300 Chase Lions Way, Columbia, MD  21044",
-      "fullThroroughfare" : "5300 Chase Lions Way",
+      "mapItemFullAddress" : "Baltimore\/Washington International Thurgood Marshall Airport, 7062 Elm Rd, Glen Burnie, MD  21240",
+      "fullThroroughfare" : "7062 Elm Rd",
       "areaOfInterest" : [
-
+        "Baltimore\/Washington International Thurgood Marshall Airport"
       ],
-      "locality" : "Columbia",
+      "locality" : "Glen Burnie",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.84641900809207,
+      "longitude" : -76.675317273835446,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.45717375036666,
-      "latitude" : 39.23423953762196,
-      "timeStamp" : 1730653984000,
+      "horizontalAccuracy" : 31.711716230544997,
+      "latitude" : 39.186545977864597,
+      "timeStamp" : 1730653812000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "2.0.73",
+    "systemVersion" : "1.0.291",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -76.84641900809207,
+      "longitude" : -76.675317273835446,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 19.45717375036666,
-      "latitude" : 39.23423953762196,
-      "timeStamp" : 1730653984000,
+      "horizontalAccuracy" : 31.711716230544997,
+      "latitude" : 39.186545977864597,
+      "timeStamp" : 1730653812000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
+      "emoji" : "🚐",
       "identifier" : 999
     },
-    "name" : "Indy"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290687770761465,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757495110815384,
-          "timeStamp" : 1730382139796,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGPL2VVXP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 254,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
-    "address" : {
-      "subAdministrativeArea" : "Orange County",
-      "label" : "Universal Orlando Resort",
-      "streetAddress" : null,
-      "countryCode" : "US",
-      "stateCode" : "FL",
-      "administrativeArea" : "Florida",
-      "streetName" : null,
-      "formattedAddressLines" : [
-        "Universal Orlando Resort",
-        "Orlando, FL  32819",
-        "United States"
-      ],
-      "mapItemFullAddress" : "Universal Orlando Resort, Orlando, FL  32819",
-      "fullThroroughfare" : null,
-      "areaOfInterest" : [
-        "Universal Orlando Resort"
-      ],
-      "locality" : "Orlando",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.461827865665256,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 31.780099108041941,
-      "latitude" : 28.480188366757446,
-      "timeStamp" : 1730653852000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "systemVersion" : "2.0.73",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -81.461827865665256,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 31.780099108041941,
-      "latitude" : 28.480188366757446,
-      "timeStamp" : 1730653852000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "name" : "1 Daniel’s Luggage"
+    "name" : "Minivan"
   },
   {
     "partInfo" : null,
@@ -801,13 +801,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.460945082597163,
+      "longitude" : -81.461957805312807,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 22.906849298536578,
-      "latitude" : 28.479625262790695,
-      "timeStamp" : 1730653613000,
+      "horizontalAccuracy" : 23.904087260166371,
+      "latitude" : 28.480143507635628,
+      "timeStamp" : 1730655678000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -816,13 +816,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.460945082597163,
+      "longitude" : -81.461957805312807,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 22.906849298536578,
-      "latitude" : 28.479625262790695,
-      "timeStamp" : 1730653613000,
+      "horizontalAccuracy" : 23.904087260166371,
+      "latitude" : 28.480143507635628,
+      "timeStamp" : 1730655678000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -890,67 +890,67 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGPL2EQQP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 254,
-    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7217 Laketree Dr",
-      "streetAddress" : "7217",
+      "subAdministrativeArea" : "Orange County",
+      "label" : "Universal Orlando Resort",
+      "streetAddress" : null,
       "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
+      "stateCode" : "FL",
+      "administrativeArea" : "Florida",
+      "streetName" : null,
       "formattedAddressLines" : [
-        "7217 Laketree Dr",
-        "Fairfax Station, VA  22039",
+        "Universal Orlando Resort",
+        "Orlando, FL  32819",
         "United States"
       ],
-      "mapItemFullAddress" : "7217 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7217 Laketree Dr",
+      "mapItemFullAddress" : "Universal Orlando Resort, Orlando, FL  32819",
+      "fullThroroughfare" : null,
       "areaOfInterest" : [
-
+        "Universal Orlando Resort"
       ],
-      "locality" : "Fairfax Station",
+      "locality" : "Orlando",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291485484135322,
+      "longitude" : -81.461981523584683,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.953547836963997,
-      "latitude" : 38.756070385893224,
-      "timeStamp" : 1730652707000,
+      "horizontalAccuracy" : 28.596001755863597,
+      "latitude" : 28.480184269780462,
+      "timeStamp" : 1730655662000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "systemVersion" : "2.0.36",
+    "systemVersion" : "2.0.73",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291485484135322,
+      "longitude" : -81.461981523584683,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.953547836963997,
-      "latitude" : 38.756070385893224,
-      "timeStamp" : 1730652707000,
+      "horizontalAccuracy" : 28.596001755863597,
+      "latitude" : 28.480184269780462,
+      "timeStamp" : 1730655662000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🚘",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "name" : "Mini Cooper"
+    "name" : "1 Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -1037,13 +1037,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.462096438163186,
+      "longitude" : -81.462057833458474,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.100282993904511,
-      "latitude" : 28.4802237379837,
-      "timeStamp" : 1730653933000,
+      "horizontalAccuracy" : 37.136308725882103,
+      "latitude" : 28.480249733808318,
+      "timeStamp" : 1730655502000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1052,13 +1052,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -81.462096438163186,
+      "longitude" : -81.462057833458474,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 23.100282993904511,
-      "latitude" : 28.4802237379837,
-      "timeStamp" : 1730653933000,
+      "horizontalAccuracy" : 37.136308725882103,
+      "latitude" : 28.480249733808318,
+      "timeStamp" : 1730655502000,
       "altitude" : -1,
       "locationFinished" : true
     },
