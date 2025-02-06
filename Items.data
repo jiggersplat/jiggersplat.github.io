@@ -3,6 +3,253 @@
     "partInfo" : null,
     "isFirmwareUpdateMandatory" : false,
     "productType" : {
+      "type" : "hawkeye",
+      "productInformation" : {
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : false,
+        "requiresAdditionalConnectionTime" : false,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290713399536529,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757515600597806,
+          "timeStamp" : 1735704274746,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "NB01GXA2319C0286",
+    "lostModeMetadata" : null,
+    "capabilities" : 670,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7209 Laketree Dr",
+      "streetAddress" : "7209",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7209 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7209 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7209 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290185967688643,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 16.680858142990594,
+      "latitude" : 38.757231597975576,
+      "timeStamp" : 1738842926000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "productIdentifier" : "2A67CF86-79C4-41B9-920E-8F865C6A75AD",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290185967688643,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 16.680858142990594,
+      "latitude" : 38.757231597975576,
+      "timeStamp" : 1738842926000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🛴",
+      "identifier" : 999
+    },
+    "systemVersion" : "1.0.4",
+    "name" : "Segway Max G2"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290713399536529,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757515600597806,
+          "timeStamp" : 1735704274746,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGPL2EQQP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 734,
+    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "address" : {
+      "subAdministrativeArea" : "Los Angeles County",
+      "label" : "467 Rustic Dr",
+      "streetAddress" : "467",
+      "countryCode" : "US",
+      "stateCode" : "CA",
+      "administrativeArea" : "California",
+      "streetName" : "Rustic Dr",
+      "formattedAddressLines" : [
+        "467 Rustic Dr",
+        "Los Angeles, CA  90065",
+        "United States"
+      ],
+      "mapItemFullAddress" : "467 Rustic Dr, Los Angeles, CA  90065",
+      "fullThroroughfare" : "467 Rustic Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Los Angeles",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -118.20833917938906,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 14.017561836126683,
+      "latitude" : 34.10433296113456,
+      "timeStamp" : 1738841282000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -118.20833917938906,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 14.017561836126683,
+      "latitude" : 34.10433296113456,
+      "timeStamp" : 1738841282000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🚘",
+      "identifier" : 999
+    },
+    "systemVersion" : "2.0.36",
+    "name" : "Mini Cooper"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
       "type" : "b389",
       "productInformation" : {
         "manufacturerName" : "Apple",
@@ -84,12 +331,12 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290466893594029,
+      "longitude" : -77.290487533633737,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 12.653236541033024,
-      "latitude" : 38.756982012867581,
+      "horizontalAccuracy" : 12.626449842789183,
+      "latitude" : 38.756987027533626,
       "timeStamp" : 1738842678000,
       "altitude" : -1,
       "locationFinished" : true
@@ -99,12 +346,12 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290466893594029,
+      "longitude" : -77.290487533633737,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 12.653236541033024,
-      "latitude" : 38.756982012867581,
+      "horizontalAccuracy" : 12.626449842789183,
+      "latitude" : 38.756987027533626,
       "timeStamp" : 1738842678000,
       "altitude" : -1,
       "locationFinished" : true
@@ -293,68 +540,68 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGPL2EQQP0GV",
+    "batteryStatus" : 5,
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
-      "subAdministrativeArea" : "Los Angeles County",
-      "label" : "467 Rustic Dr",
-      "streetAddress" : "467",
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
       "countryCode" : "US",
-      "stateCode" : "CA",
-      "administrativeArea" : "California",
-      "streetName" : "Rustic Dr",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "467 Rustic Dr",
-        "Los Angeles, CA  90065",
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "467 Rustic Dr, Los Angeles, CA  90065",
-      "fullThroroughfare" : "467 Rustic Dr",
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
       "areaOfInterest" : [
 
       ],
-      "locality" : "Los Angeles",
+      "locality" : "Fairfax Station",
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "lastConnected",
       "verticalAccuracy" : -1,
-      "longitude" : -118.20833708541369,
+      "longitude" : -77.290561925211435,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.051544917519012,
-      "latitude" : 34.104333754326198,
-      "timeStamp" : 1738841282000,
+      "horizontalAccuracy" : 35,
+      "latitude" : 38.757457677163032,
+      "timeStamp" : 1738843906669,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "lastConnected",
       "verticalAccuracy" : -1,
-      "longitude" : -118.20833708541369,
+      "longitude" : -77.290561925211435,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.051544917519012,
-      "latitude" : 34.104333754326198,
-      "timeStamp" : 1738841282000,
+      "horizontalAccuracy" : 35,
+      "latitude" : 38.757457677163032,
+      "timeStamp" : 1738843906669,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🚘",
+      "emoji" : "🦄",
       "identifier" : 999
     },
-    "systemVersion" : "2.0.36",
-    "name" : "Mini Cooper"
+    "systemVersion" : "2.0.73",
+    "name" : "Jolene"
   },
   {
     "partInfo" : null,
@@ -441,13 +688,13 @@
     "location" : {
       "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290678900000003,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.310822973977542,
-      "latitude" : 38.7575602,
-      "timeStamp" : 1738842902000,
+      "horizontalAccuracy" : 12.507659846073732,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843834000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -456,13 +703,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290678900000003,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.310822973977542,
-      "latitude" : 38.7575602,
-      "timeStamp" : 1738842902000,
+      "horizontalAccuracy" : 12.507659846073732,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843834000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -474,253 +721,6 @@
     },
     "systemVersion" : "2.0.73",
     "name" : "Virginia"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : false,
-        "requiresAdditionalConnectionTime" : false,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290713399536529,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757515600597806,
-          "timeStamp" : 1735704274746,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 670,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7209 Laketree Dr",
-      "streetAddress" : "7209",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7209 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7209 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7209 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290183629916498,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 14.945135706054328,
-      "latitude" : 38.757241756368614,
-      "timeStamp" : 1738842101000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "productIdentifier" : "2A67CF86-79C4-41B9-920E-8F865C6A75AD",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290183629916498,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 14.945135706054328,
-      "latitude" : 38.757241756368614,
-      "timeStamp" : 1738842101000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🛴",
-      "identifier" : 999
-    },
-    "systemVersion" : "1.0.4",
-    "name" : "Segway Max G2"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290713399536529,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757515600597806,
-          "timeStamp" : 1735704274746,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 5,
-    "serialNumber" : "HGDKP3MDP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 734,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "lastConnected",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "lastConnected",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
-    },
-    "systemVersion" : "2.0.73",
-    "name" : "Jolene"
   },
   {
     "partInfo" : null,
@@ -779,10 +779,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 4,
-    "serialNumber" : "HGHKPUD8P0GV",
+    "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -805,41 +805,41 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "lastConnected",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
+      "longitude" : -77.290455550034935,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
+      "horizontalAccuracy" : 41.426492997709417,
+      "latitude" : 38.757481150048427,
+      "timeStamp" : 1738843870000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "lastConnected",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
+      "longitude" : -77.290455550034935,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
+      "horizontalAccuracy" : 41.426492997709417,
+      "latitude" : 38.757481150048427,
+      "timeStamp" : 1738843870000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
     "systemVersion" : "2.0.73",
-    "name" : "Indy"
+    "name" : "1 Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -926,13 +926,13 @@
     "location" : {
       "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290678900000003,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 20.090453099575313,
-      "latitude" : 38.757560199999993,
-      "timeStamp" : 1738842906000,
+      "horizontalAccuracy" : 13.540084647576334,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843834000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -941,13 +941,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290678900000003,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 20.090453099575313,
-      "latitude" : 38.757560199999993,
-      "timeStamp" : 1738842906000,
+      "horizontalAccuracy" : 13.540084647576334,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843834000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -1017,10 +1017,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 4,
-    "serialNumber" : "HGPL2VVXP0GV",
+    "serialNumber" : "HGHKPUD8P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -1043,40 +1043,40 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "lastConnected",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
+      "horizontalAccuracy" : 13.414503344542313,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843832000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "lastConnected",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290544995677067,
+      "longitude" : -77.290698300000003,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 35,
-      "latitude" : 38.75748042923081,
-      "timeStamp" : 1738842991561,
+      "horizontalAccuracy" : 13.414503344542313,
+      "latitude" : 38.757568699999986,
+      "timeStamp" : 1738843832000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🐕‍🦺",
+      "identifier" : 999
     },
     "systemVersion" : "2.0.73",
-    "name" : "1 Daniel’s Luggage"
+    "name" : "Indy"
   }
 ]
