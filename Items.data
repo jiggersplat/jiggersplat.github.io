@@ -56,67 +56,196 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 5,
-    "serialNumber" : "HGPKP062P0GV",
+    "serialNumber" : "HGPL2EQQP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
     "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
+      "subAdministrativeArea" : "Los Angeles County",
+      "label" : "476 Wren Dr",
+      "streetAddress" : "476",
       "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
+      "stateCode" : "CA",
+      "administrativeArea" : "California",
+      "streetName" : "Wren Dr",
       "formattedAddressLines" : [
-        "7210 Laketree Dr",
-        "Fairfax Station, VA  22039",
+        "476 Wren Dr",
+        "Los Angeles, CA  90065",
         "United States"
       ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
+      "mapItemFullAddress" : "476 Wren Dr, Los Angeles, CA  90065",
+      "fullThroroughfare" : "476 Wren Dr",
       "areaOfInterest" : [
 
       ],
-      "locality" : "Fairfax Station",
+      "locality" : "Los Angeles",
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290573163338678,
+      "longitude" : -118.20906660000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 42.423817226842928,
-      "latitude" : 38.757452358378607,
-      "timeStamp" : 1743711146000,
+      "isOld" : true,
+      "horizontalAccuracy" : 27.984084529349467,
+      "latitude" : 34.10396990000001,
+      "timeStamp" : 1743709590000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290573163338678,
+      "longitude" : -118.20906660000001,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 42.423817226842928,
-      "latitude" : 38.757452358378607,
-      "timeStamp" : 1743711146000,
+      "isOld" : true,
+      "horizontalAccuracy" : 27.984084529349467,
+      "latitude" : 34.10396990000001,
+      "timeStamp" : 1743709590000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🧜‍♀️",
+      "emoji" : "🚘",
       "identifier" : 999
     },
-    "systemVersion" : "2.0.73",
-    "name" : "Virginia"
+    "systemVersion" : "2.0.36",
+    "name" : "Mini Cooper"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "hawkeye",
+      "productInformation" : {
+        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
+        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
+        "vendorIdentifier" : -379267876,
+        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
+        "modelName" : "KickScooter",
+        "requiresAudioSafetyAlert" : false,
+        "requiresAdditionalConnectionTime" : false,
+        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
+        "productIdentifier" : -1991323972,
+        "antennaPower" : 4,
+        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
+        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
+        "appBundleIdentifier" : "com.ninebot.segway",
+        "manufacturerName" : "Segway-Ninebot"
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290713399536529,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757515600597806,
+          "timeStamp" : 1738866429687,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "NB01GXA2319C0286",
+    "lostModeMetadata" : null,
+    "capabilities" : 670,
+    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "Burke Lake Park",
+      "streetAddress" : "7270–7338",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "Burke Lake Park",
+        "7270–7338 Laketree Dr",
+        "Burke, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "Burke Lake Park, 7270–7338 Laketree Dr, Burke, VA  22039",
+      "fullThroroughfare" : "7270–7338 Laketree Dr",
+      "areaOfInterest" : [
+        "Burke Lake Park"
+      ],
+      "locality" : "Burke",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.291557600000004,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 19.38725163560223,
+      "latitude" : 38.756103199999998,
+      "timeStamp" : 1743711982000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "productIdentifier" : "2A67CF86-79C4-41B9-920E-8F865C6A75AD",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.291557600000004,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 19.38725163560223,
+      "latitude" : 38.756103199999998,
+      "timeStamp" : 1743711982000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🛴",
+      "identifier" : 999
+    },
+    "systemVersion" : "1.0.4",
+    "name" : "Segway Max G2"
   },
   {
     "partInfo" : null,
@@ -322,13 +451,13 @@
     "location" : {
       "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290571240923271,
+      "longitude" : -77.290566689667799,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 42.287675162860367,
-      "latitude" : 38.757453702142236,
-      "timeStamp" : 1743711310000,
+      "horizontalAccuracy" : 44.43867621966055,
+      "latitude" : 38.757457299682294,
+      "timeStamp" : 1743713110000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -337,13 +466,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290571240923271,
+      "longitude" : -77.290566689667799,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 42.287675162860367,
-      "latitude" : 38.757453702142236,
-      "timeStamp" : 1743711310000,
+      "horizontalAccuracy" : 44.43867621966055,
+      "latitude" : 38.757457299682294,
+      "timeStamp" : 1743713110000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -413,10 +542,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 5,
-    "serialNumber" : "HGPL2VVXP0GV",
+    "serialNumber" : "HGPKP062P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -439,41 +568,41 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290571249221429,
+      "longitude" : -77.290565031643411,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 42.433082929193439,
-      "latitude" : 38.757452053100209,
-      "timeStamp" : 1743711358000,
+      "horizontalAccuracy" : 35.715709378305874,
+      "latitude" : 38.757482150987059,
+      "timeStamp" : 1743712933000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290571249221429,
+      "longitude" : -77.290565031643411,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 42.433082929193439,
-      "latitude" : 38.757452053100209,
-      "timeStamp" : 1743711358000,
+      "horizontalAccuracy" : 35.715709378305874,
+      "latitude" : 38.757482150987059,
+      "timeStamp" : 1743712933000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🧜‍♀️",
+      "identifier" : 999
     },
     "systemVersion" : "2.0.73",
-    "name" : "1 Daniel’s Luggage"
+    "name" : "Virginia"
   },
   {
     "partInfo" : null,
@@ -532,41 +661,41 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 5,
-    "serialNumber" : "HGPL2EQQP0GV",
+    "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "D5736C1B-B774-486F-95ED-AC39B2421B0D",
+    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
     "address" : {
-      "subAdministrativeArea" : "Los Angeles County",
-      "label" : "476 Wren Dr",
-      "streetAddress" : "476",
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "I-95 S",
+      "streetAddress" : null,
       "countryCode" : "US",
-      "stateCode" : "CA",
-      "administrativeArea" : "California",
-      "streetName" : "Wren Dr",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "I-95 S",
       "formattedAddressLines" : [
-        "476 Wren Dr",
-        "Los Angeles, CA  90065",
+        "I-95 S",
+        "Alexandria, VA  22304",
         "United States"
       ],
-      "mapItemFullAddress" : "476 Wren Dr, Los Angeles, CA  90065",
-      "fullThroroughfare" : "476 Wren Dr",
+      "mapItemFullAddress" : "I-95 S, Alexandria, VA  22304",
+      "fullThroroughfare" : "I-95 S",
       "areaOfInterest" : [
 
       ],
-      "locality" : "Los Angeles",
+      "locality" : "Alexandria",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -118.20906660000001,
+      "longitude" : -77.160514500000005,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.984084529349467,
-      "latitude" : 34.10396990000001,
-      "timeStamp" : 1743709590000,
+      "horizontalAccuracy" : 37.740966344155893,
+      "latitude" : 38.791878199999999,
+      "timeStamp" : 1743713472000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -575,24 +704,24 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -118.20906660000001,
+      "longitude" : -77.160514500000005,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 27.984084529349467,
-      "latitude" : 34.10396990000001,
-      "timeStamp" : 1743709590000,
+      "horizontalAccuracy" : 37.740966344155893,
+      "latitude" : 38.791878199999999,
+      "timeStamp" : 1743713472000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🚘",
+      "emoji" : "🚐",
       "identifier" : 999
     },
-    "systemVersion" : "2.0.36",
-    "name" : "Mini Cooper"
+    "systemVersion" : "1.0.291",
+    "name" : "Minivan"
   },
   {
     "partInfo" : null,
@@ -677,30 +806,30 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290534927357086,
+      "longitude" : -77.2905776748878,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 46.441782010491316,
-      "latitude" : 38.757470634515869,
-      "timeStamp" : 1743711213000,
+      "horizontalAccuracy" : 35.175061314664504,
+      "latitude" : 38.757494478172561,
+      "timeStamp" : 1743713015000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "localReductiveFilter",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290534927357086,
+      "longitude" : -77.2905776748878,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 46.441782010491316,
-      "latitude" : 38.757470634515869,
-      "timeStamp" : 1743711213000,
+      "horizontalAccuracy" : 35.175061314664504,
+      "latitude" : 38.757494478172561,
+      "timeStamp" : 1743713015000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -889,153 +1018,25 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 5,
-    "serialNumber" : "HGPKP0BAP0GV",
+    "serialNumber" : "HGPL2VVXP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
-    "address" : {
-      "subAdministrativeArea" : "The Virginias",
-      "label" : "927 Bellevue Dr SW",
-      "streetAddress" : "927",
-      "countryCode" : "US",
-      "stateCode" : "DC",
-      "administrativeArea" : "District of Columbia",
-      "streetName" : "Bellevue Dr SW",
-      "formattedAddressLines" : [
-        "927 Bellevue Dr SW",
-        "Bolling Afb, DC  20032",
-        "United States"
-      ],
-      "mapItemFullAddress" : "927 Bellevue Dr SW, Bolling Afb, DC  20032",
-      "fullThroroughfare" : "927 Bellevue Dr SW",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Washington",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.023855636728314,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.053093675427018,
-      "latitude" : 38.827143525472195,
-      "timeStamp" : 1743710416000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.023855636728314,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 20.053093675427018,
-      "latitude" : 38.827143525472195,
-      "timeStamp" : 1743710416000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🚐",
-      "identifier" : 999
-    },
-    "systemVersion" : "1.0.291",
-    "name" : "Minivan"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "hawkeye",
-      "productInformation" : {
-        "defaultListIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list.png",
-        "defaultHeroIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@3x.png",
-        "vendorIdentifier" : -379267876,
-        "defaultListIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@2x.png",
-        "modelName" : "KickScooter",
-        "requiresAudioSafetyAlert" : false,
-        "requiresAdditionalConnectionTime" : false,
-        "defaultListIcon3x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/list@3x.png",
-        "productIdentifier" : -1991323972,
-        "antennaPower" : 4,
-        "defaultHeroIcon" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero.png",
-        "defaultHeroIcon2x" : "https:\/\/statici.icloud.com\/accessories\/category-135\/hero@2x.png",
-        "appBundleIdentifier" : "com.ninebot.segway",
-        "manufacturerName" : "Segway-Ninebot"
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290713399536529,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757515600597806,
-          "timeStamp" : 1738866429687,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "NB01GXA2319C0286",
-    "lostModeMetadata" : null,
-    "capabilities" : 670,
-    "identifier" : "02B7A285-CED9-43BC-A13B-1A48E079AB5C",
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7211 Laketree Dr",
-      "streetAddress" : "7211",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7211 Laketree Dr",
+        "7210 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7211 Laketree Dr",
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -1043,40 +1044,40 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290433147417502,
+      "longitude" : -77.290566682537388,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 18.57835718161089,
-      "latitude" : 38.757084897047839,
-      "timeStamp" : 1743710705000,
+      "horizontalAccuracy" : 44.485011184379331,
+      "latitude" : 38.757456618433778,
+      "timeStamp" : 1743713098000,
       "altitude" : -1,
       "locationFinished" : true
     },
-    "productIdentifier" : "2A67CF86-79C4-41B9-920E-8F865C6A75AD",
+    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290433147417502,
+      "longitude" : -77.290566682537388,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 18.57835718161089,
-      "latitude" : 38.757084897047839,
-      "timeStamp" : 1743710705000,
+      "horizontalAccuracy" : 44.485011184379331,
+      "latitude" : 38.757456618433778,
+      "timeStamp" : 1743713098000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🛴",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
-    "systemVersion" : "1.0.4",
-    "name" : "Segway Max G2"
+    "systemVersion" : "2.0.73",
+    "name" : "1 Daniel’s Luggage"
   }
 ]
