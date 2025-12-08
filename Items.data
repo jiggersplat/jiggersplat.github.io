@@ -55,11 +55,11 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "batteryStatus" : 5,
+    "serialNumber" : "HGPL2WFNP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -82,41 +82,41 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "lastConnected",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290616664840826,
+      "longitude" : -77.290568407613321,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 37.52952593780477,
-      "latitude" : 38.757447264084966,
-      "timeStamp" : 1762614802000,
+      "horizontalAccuracy" : 43.738067659034265,
+      "latitude" : 38.757422898148036,
+      "timeStamp" : 1762614189642,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "lastConnected",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290616664840826,
+      "longitude" : -77.290568407613321,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 37.52952593780477,
-      "latitude" : 38.757447264084966,
-      "timeStamp" : 1762614802000,
+      "horizontalAccuracy" : 43.738067659034265,
+      "latitude" : 38.757422898148036,
+      "timeStamp" : 1762614189642,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
     "systemVersion" : "2.0.73",
-    "name" : "4"
+    "name" : "2"
   },
   {
     "partInfo" : null,
@@ -412,6 +412,125 @@
       }
     ],
     "owner" : "owner@localhost",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGPKP062P0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 734,
+    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "address" : {
+      "subAdministrativeArea" : "Fairfax County",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
+      "countryCode" : "US",
+      "stateCode" : "VA",
+      "administrativeArea" : "Virginia",
+      "streetName" : "Laketree Dr",
+      "formattedAddressLines" : [
+        "7210 Laketree Dr",
+        "Fairfax Station, VA  22039",
+        "United States"
+      ],
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
+      "areaOfInterest" : [
+
+      ],
+      "locality" : "Fairfax Station",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290645360053674,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : true,
+      "horizontalAccuracy" : 18.089370826523176,
+      "latitude" : 38.757516211023571,
+      "timeStamp" : 1747184427000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -77.290645360053674,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : true,
+      "horizontalAccuracy" : 18.089370826523176,
+      "latitude" : 38.757516211023571,
+      "timeStamp" : 1747184427000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Custom Name",
+      "emoji" : "🧜‍♀️",
+      "identifier" : 999
+    },
+    "systemVersion" : "2.0.73",
+    "name" : "3"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290713399536529,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757515600597806,
+          "timeStamp" : 1738866429687,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
     "batteryStatus" : 5,
     "serialNumber" : "HGPL2EQQP0GV",
     "lostModeMetadata" : null,
@@ -569,12 +688,12 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290845618767591,
+      "longitude" : -77.290775650658176,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 18.240975304762785,
-      "latitude" : 38.756712160199406,
+      "isOld" : true,
+      "horizontalAccuracy" : 15.801883491525972,
+      "latitude" : 38.756804533604885,
       "timeStamp" : 1765198781000,
       "altitude" : -1,
       "locationFinished" : true
@@ -584,12 +703,12 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290845618767591,
+      "longitude" : -77.290775650658176,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 18.240975304762785,
-      "latitude" : 38.756712160199406,
+      "isOld" : true,
+      "horizontalAccuracy" : 15.801883491525972,
+      "latitude" : 38.756804533604885,
       "timeStamp" : 1765198781000,
       "altitude" : -1,
       "locationFinished" : true
@@ -660,10 +779,10 @@
     ],
     "owner" : "owner@localhost",
     "batteryStatus" : 1,
-    "serialNumber" : "HGPKP062P0GV",
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -686,160 +805,41 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290645360053674,
+      "longitude" : -77.290616664840826,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.089370826523176,
-      "latitude" : 38.757516211023571,
-      "timeStamp" : 1747184427000,
+      "horizontalAccuracy" : 37.52952593780477,
+      "latitude" : 38.757447264084966,
+      "timeStamp" : 1762614802000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290645360053674,
+      "longitude" : -77.290616664840826,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 18.089370826523176,
-      "latitude" : 38.757516211023571,
-      "timeStamp" : 1747184427000,
+      "horizontalAccuracy" : 37.52952593780477,
+      "latitude" : 38.757447264084966,
+      "timeStamp" : 1762614802000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🧜‍♀️",
+      "emoji" : "🦄",
       "identifier" : 999
     },
     "systemVersion" : "2.0.73",
-    "name" : "3"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290713399536529,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757515600597806,
-          "timeStamp" : 1738866429687,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGHKPUD8P0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 734,
-    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
-    "address" : {
-      "subAdministrativeArea" : "Fairfax County",
-      "label" : "7217 Laketree Dr",
-      "streetAddress" : "7217",
-      "countryCode" : "US",
-      "stateCode" : "VA",
-      "administrativeArea" : "Virginia",
-      "streetName" : "Laketree Dr",
-      "formattedAddressLines" : [
-        "7217 Laketree Dr",
-        "Fairfax Station, VA  22039",
-        "United States"
-      ],
-      "mapItemFullAddress" : "7217 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7217 Laketree Dr",
-      "areaOfInterest" : [
-
-      ],
-      "locality" : "Fairfax Station",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.291167335729185,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 14.086302252490128,
-      "latitude" : 38.7561406174731,
-      "timeStamp" : 1765197746000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -77.291167335729185,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 14.086302252490128,
-      "latitude" : 38.7561406174731,
-      "timeStamp" : 1765197746000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🐕‍🦺",
-      "identifier" : 999
-    },
-    "systemVersion" : "2.0.73",
-    "name" : "5 Indy"
+    "name" : "4"
   },
   {
     "partInfo" : null,
@@ -1016,11 +1016,11 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 5,
-    "serialNumber" : "HGPL2WFNP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGHKPUD8P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
+    "identifier" : "72239B76-2289-4A53-84A3-82E79F02CD68",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
       "label" : "7210 Laketree Dr",
@@ -1043,40 +1043,40 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "lastConnected",
+      "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290568407613321,
+      "longitude" : -77.290536953455856,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 43.738067659034265,
-      "latitude" : 38.757422898148036,
-      "timeStamp" : 1762614189642,
+      "isOld" : false,
+      "horizontalAccuracy" : 44.290377812119686,
+      "latitude" : 38.757458068499417,
+      "timeStamp" : 1765202426000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "lastConnected",
+      "positionType" : "localReductiveFilter",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290568407613321,
+      "longitude" : -77.290536953455856,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 43.738067659034265,
-      "latitude" : 38.757422898148036,
-      "timeStamp" : 1762614189642,
+      "isOld" : false,
+      "horizontalAccuracy" : 44.290377812119686,
+      "latitude" : 38.757458068499417,
+      "timeStamp" : 1765202426000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🐕‍🦺",
+      "identifier" : 999
     },
     "systemVersion" : "2.0.73",
-    "name" : "2"
+    "name" : "5 Indy"
   }
 ]
