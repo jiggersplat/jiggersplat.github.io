@@ -55,26 +55,26 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 1,
-    "serialNumber" : "HGDKP3MDP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGPL2WFNP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
+    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7210 Laketree Dr",
-      "streetAddress" : "7210",
+      "label" : "7211 Laketree Dr",
+      "streetAddress" : "7211",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7210 Laketree Dr",
+        "7211 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7210 Laketree Dr",
+      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7211 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -82,41 +82,161 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290660387600497,
+      "longitude" : -77.290638999999999,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 30.97482675337336,
-      "latitude" : 38.757468379863489,
-      "timeStamp" : 1762614802000,
+      "horizontalAccuracy" : 21.587742241262198,
+      "latitude" : 38.757236900000009,
+      "timeStamp" : 1782242180000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290660387600497,
+      "longitude" : -77.290638999999999,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 30.97482675337336,
-      "latitude" : 38.757468379863489,
-      "timeStamp" : 1762614802000,
+      "horizontalAccuracy" : 21.587742241262198,
+      "latitude" : 38.757236900000009,
+      "timeStamp" : 1782242180000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Custom Name",
-      "emoji" : "🦄",
-      "identifier" : 999
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
     },
     "systemVersion" : "2.0.73",
-    "name" : "4"
+    "name" : "2"
+  },
+  {
+    "partInfo" : null,
+    "isFirmwareUpdateMandatory" : false,
+    "productType" : {
+      "type" : "b389",
+      "productInformation" : {
+        "manufacturerName" : "Apple",
+        "modelName" : "",
+        "productIdentifier" : 21760,
+        "vendorIdentifier" : 76,
+        "antennaPower" : 4
+      }
+    },
+    "safeLocations" : [
+      {
+        "type" : 1,
+        "approvalState" : 1,
+        "name" : "Home",
+        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
+        "location" : {
+          "positionType" : "safeLocation",
+          "verticalAccuracy" : 80,
+          "longitude" : -77.290658837455808,
+          "floorLevel" : -1,
+          "isInaccurate" : false,
+          "isOld" : true,
+          "horizontalAccuracy" : 80,
+          "latitude" : 38.757588562312868,
+          "timeStamp" : 1782608517142,
+          "altitude" : 0,
+          "locationFinished" : true
+        },
+        "address" : {
+          "subAdministrativeArea" : "Fairfax County",
+          "label" : "7210 Laketree Dr",
+          "streetAddress" : "7210",
+          "countryCode" : "US",
+          "stateCode" : "VA",
+          "administrativeArea" : "Virginia",
+          "streetName" : "Laketree Dr",
+          "formattedAddressLines" : [
+            "7210 Laketree Dr",
+            "Fairfax Station, VA  22039",
+            "United States"
+          ],
+          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+          "fullThroroughfare" : "7210 Laketree Dr",
+          "areaOfInterest" : [
+
+          ],
+          "locality" : "Fairfax Station",
+          "country" : "United States"
+        }
+      }
+    ],
+    "owner" : "owner@localhost",
+    "batteryStatus" : 4,
+    "serialNumber" : "HGPL2VVXP0GV",
+    "lostModeMetadata" : null,
+    "capabilities" : 734,
+    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
+    "address" : {
+      "subAdministrativeArea" : "Honolulu County",
+      "label" : "2370 Kalākaua Ave",
+      "streetAddress" : "2370",
+      "countryCode" : "US",
+      "stateCode" : "HI",
+      "administrativeArea" : "Hawaiʻi",
+      "streetName" : "Kalākaua Ave",
+      "formattedAddressLines" : [
+        "2370 Kalākaua Ave",
+        "Honolulu, HI  96815",
+        "United States"
+      ],
+      "mapItemFullAddress" : "2370 Kalākaua Ave, Honolulu, HI  96815",
+      "fullThroroughfare" : "2370 Kalākaua Ave",
+      "areaOfInterest" : [
+        "Oʻahu",
+        "Hawaiian Islands"
+      ],
+      "locality" : "Honolulu",
+      "country" : "United States"
+    },
+    "location" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -157.82619942505423,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 20.059934191360504,
+      "latitude" : 21.277395720037717,
+      "timeStamp" : 1782679740000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
+    "isAppleAudioAccessory" : false,
+    "crowdSourcedLocation" : {
+      "positionType" : "crowdsourced",
+      "verticalAccuracy" : -1,
+      "longitude" : -157.82619942505423,
+      "floorLevel" : -1,
+      "isInaccurate" : false,
+      "isOld" : false,
+      "horizontalAccuracy" : 20.059934191360504,
+      "latitude" : 21.277395720037717,
+      "timeStamp" : 1782679740000,
+      "altitude" : -1,
+      "locationFinished" : true
+    },
+    "groupIdentifier" : null,
+    "role" : {
+      "name" : "Luggage",
+      "emoji" : "🧳",
+      "identifier" : 7
+    },
+    "systemVersion" : "2.0.73",
+    "name" : "1 Daniel’s Luggage"
   },
   {
     "partInfo" : null,
@@ -212,13 +332,13 @@
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291026890496667,
+      "longitude" : -77.291041992936385,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.587278468041346,
-      "latitude" : 38.757195080220811,
-      "timeStamp" : 1782678000000,
+      "horizontalAccuracy" : 13.173426403039139,
+      "latitude" : 38.757229132203577,
+      "timeStamp" : 1782678720000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -227,13 +347,13 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.291026890496667,
+      "longitude" : -77.291041992936385,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 14.587278468041346,
-      "latitude" : 38.757195080220811,
-      "timeStamp" : 1782678000000,
+      "horizontalAccuracy" : 13.173426403039139,
+      "latitude" : 38.757229132203577,
+      "timeStamp" : 1782678720000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -302,43 +422,44 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 5,
-    "serialNumber" : "HGPKP0BAP0GV",
+    "batteryStatus" : 2,
+    "serialNumber" : "HGPKP062P0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
+    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
     "address" : {
-      "subAdministrativeArea" : "Monroe County",
-      "label" : "Camelback Mountain Resort",
-      "streetAddress" : "193",
+      "subAdministrativeArea" : "Honolulu County",
+      "label" : "Aloha Stadium",
+      "streetAddress" : null,
       "countryCode" : "US",
-      "stateCode" : "PA",
-      "administrativeArea" : "Pennsylvania",
-      "streetName" : "Resort Dr",
+      "stateCode" : "HI",
+      "administrativeArea" : "Hawaiʻi",
+      "streetName" : null,
       "formattedAddressLines" : [
-        "Camelback Mountain Resort",
-        "193 Resort Dr",
-        "Tannersville, PA  18372",
+        "Aloha Stadium",
+        "Honolulu, HI  96818",
         "United States"
       ],
-      "mapItemFullAddress" : "Camelback Mountain Resort, 193 Resort Dr, Tannersville, PA  18372",
-      "fullThroroughfare" : "193 Resort Dr",
+      "mapItemFullAddress" : "Aloha Stadium, Honolulu, HI  96818",
+      "fullThroroughfare" : null,
       "areaOfInterest" : [
-        "Camelback Mountain Resort"
+        "Aloha Stadium",
+        "Oʻahu",
+        "Hawaiian Islands"
       ],
-      "locality" : "Tannersville",
+      "locality" : "Halawa",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -75.345974144211482,
+      "longitude" : -157.92815403483377,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 20.661990844723022,
-      "latitude" : 41.052507870903952,
-      "timeStamp" : 1769875775000,
+      "isOld" : false,
+      "horizontalAccuracy" : 17.188529873044111,
+      "latitude" : 21.369158693415315,
+      "timeStamp" : 1782680340000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -347,24 +468,24 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -75.345974144211482,
+      "longitude" : -157.92815403483377,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : true,
-      "horizontalAccuracy" : 20.661990844723022,
-      "latitude" : 41.052507870903952,
-      "timeStamp" : 1769875775000,
+      "isOld" : false,
+      "horizontalAccuracy" : 17.188529873044111,
+      "latitude" : 21.369158693415315,
+      "timeStamp" : 1782680340000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🚐",
+      "emoji" : "🧜‍♀️",
       "identifier" : 999
     },
-    "systemVersion" : "1.0.291",
-    "name" : "6 Minivan"
+    "systemVersion" : "2.0.73",
+    "name" : "3 Backpack"
   },
   {
     "partInfo" : null,
@@ -449,30 +570,30 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290703100000002,
+      "longitude" : -77.29062934568681,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 15.266969369965606,
-      "latitude" : 38.757519600000002,
-      "timeStamp" : 1782678541000,
+      "horizontalAccuracy" : 19.36230611178776,
+      "latitude" : 38.757265561463015,
+      "timeStamp" : 1782680450000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "ownedDeviceLocation",
+      "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290703100000002,
+      "longitude" : -77.29062934568681,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : false,
-      "horizontalAccuracy" : 15.266969369965606,
-      "latitude" : 38.757519600000002,
-      "timeStamp" : 1782678541000,
+      "horizontalAccuracy" : 19.36230611178776,
+      "latitude" : 38.757265561463015,
+      "timeStamp" : 1782680450000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -660,44 +781,43 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGPKP062P0GV",
+    "batteryStatus" : 5,
+    "serialNumber" : "HGPKP0BAP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "4642DDCB-41D0-457B-B08D-3B8321BEDD26",
+    "identifier" : "99BA462F-BDD2-48E3-B7A3-ECA498C7DB7E",
     "address" : {
-      "subAdministrativeArea" : "Honolulu County",
-      "label" : "Aloha Stadium",
-      "streetAddress" : null,
+      "subAdministrativeArea" : "Monroe County",
+      "label" : "Camelback Mountain Resort",
+      "streetAddress" : "193",
       "countryCode" : "US",
-      "stateCode" : "HI",
-      "administrativeArea" : "Hawaiʻi",
-      "streetName" : null,
+      "stateCode" : "PA",
+      "administrativeArea" : "Pennsylvania",
+      "streetName" : "Resort Dr",
       "formattedAddressLines" : [
-        "Aloha Stadium",
-        "Honolulu, HI  96818",
+        "Camelback Mountain Resort",
+        "193 Resort Dr",
+        "Tannersville, PA  18372",
         "United States"
       ],
-      "mapItemFullAddress" : "Aloha Stadium, Honolulu, HI  96818",
-      "fullThroroughfare" : null,
+      "mapItemFullAddress" : "Camelback Mountain Resort, 193 Resort Dr, Tannersville, PA  18372",
+      "fullThroroughfare" : "193 Resort Dr",
       "areaOfInterest" : [
-        "Aloha Stadium",
-        "Oʻahu",
-        "Hawaiian Islands"
+        "Camelback Mountain Resort"
       ],
-      "locality" : "Halawa",
+      "locality" : "Tannersville",
       "country" : "United States"
     },
     "location" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -157.92794792064794,
+      "longitude" : -75.345974144211482,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 13.448057085111614,
-      "latitude" : 21.369186022720843,
-      "timeStamp" : 1782678110000,
+      "isOld" : true,
+      "horizontalAccuracy" : 20.661990844723022,
+      "latitude" : 41.052507870903952,
+      "timeStamp" : 1769875775000,
       "altitude" : -1,
       "locationFinished" : true
     },
@@ -706,24 +826,24 @@
     "crowdSourcedLocation" : {
       "positionType" : "crowdsourced",
       "verticalAccuracy" : -1,
-      "longitude" : -157.92794792064794,
+      "longitude" : -75.345974144211482,
       "floorLevel" : -1,
       "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 13.448057085111614,
-      "latitude" : 21.369186022720843,
-      "timeStamp" : 1782678110000,
+      "isOld" : true,
+      "horizontalAccuracy" : 20.661990844723022,
+      "latitude" : 41.052507870903952,
+      "timeStamp" : 1769875775000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
       "name" : "Custom Name",
-      "emoji" : "🧜‍♀️",
+      "emoji" : "🚐",
       "identifier" : 999
     },
-    "systemVersion" : "2.0.73",
-    "name" : "3 Backpack"
+    "systemVersion" : "1.0.291",
+    "name" : "6 Minivan"
   },
   {
     "partInfo" : null,
@@ -781,146 +901,26 @@
       }
     ],
     "owner" : "owner@localhost",
-    "batteryStatus" : 4,
-    "serialNumber" : "HGPL2VVXP0GV",
+    "batteryStatus" : 1,
+    "serialNumber" : "HGDKP3MDP0GV",
     "lostModeMetadata" : null,
     "capabilities" : 734,
-    "identifier" : "78AEBD21-D6BE-4F25-A2C2-C0D55778452A",
-    "address" : {
-      "subAdministrativeArea" : "Honolulu County",
-      "label" : "2370 Kalākaua Ave",
-      "streetAddress" : "2370",
-      "countryCode" : "US",
-      "stateCode" : "HI",
-      "administrativeArea" : "Hawaiʻi",
-      "streetName" : "Kalākaua Ave",
-      "formattedAddressLines" : [
-        "2370 Kalākaua Ave",
-        "Honolulu, HI  96815",
-        "United States"
-      ],
-      "mapItemFullAddress" : "2370 Kalākaua Ave, Honolulu, HI  96815",
-      "fullThroroughfare" : "2370 Kalākaua Ave",
-      "areaOfInterest" : [
-        "Oʻahu",
-        "Hawaiian Islands"
-      ],
-      "locality" : "Honolulu",
-      "country" : "United States"
-    },
-    "location" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -157.82620013416593,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 15.339043994368099,
-      "latitude" : 21.277378824050242,
-      "timeStamp" : 1782678300000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
-    "isAppleAudioAccessory" : false,
-    "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
-      "verticalAccuracy" : -1,
-      "longitude" : -157.82620013416593,
-      "floorLevel" : -1,
-      "isInaccurate" : false,
-      "isOld" : false,
-      "horizontalAccuracy" : 15.339043994368099,
-      "latitude" : 21.277378824050242,
-      "timeStamp" : 1782678300000,
-      "altitude" : -1,
-      "locationFinished" : true
-    },
-    "groupIdentifier" : null,
-    "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
-    },
-    "systemVersion" : "2.0.73",
-    "name" : "1 Daniel’s Luggage"
-  },
-  {
-    "partInfo" : null,
-    "isFirmwareUpdateMandatory" : false,
-    "productType" : {
-      "type" : "b389",
-      "productInformation" : {
-        "manufacturerName" : "Apple",
-        "modelName" : "",
-        "productIdentifier" : 21760,
-        "vendorIdentifier" : 76,
-        "antennaPower" : 4
-      }
-    },
-    "safeLocations" : [
-      {
-        "type" : 1,
-        "approvalState" : 1,
-        "name" : "Home",
-        "identifier" : "2DEDE329-8BF8-4753-8C78-5BC0AFAAA0CF",
-        "location" : {
-          "positionType" : "safeLocation",
-          "verticalAccuracy" : 80,
-          "longitude" : -77.290658837455808,
-          "floorLevel" : -1,
-          "isInaccurate" : false,
-          "isOld" : true,
-          "horizontalAccuracy" : 80,
-          "latitude" : 38.757588562312868,
-          "timeStamp" : 1782608517142,
-          "altitude" : 0,
-          "locationFinished" : true
-        },
-        "address" : {
-          "subAdministrativeArea" : "Fairfax County",
-          "label" : "7210 Laketree Dr",
-          "streetAddress" : "7210",
-          "countryCode" : "US",
-          "stateCode" : "VA",
-          "administrativeArea" : "Virginia",
-          "streetName" : "Laketree Dr",
-          "formattedAddressLines" : [
-            "7210 Laketree Dr",
-            "Fairfax Station, VA  22039",
-            "United States"
-          ],
-          "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
-          "fullThroroughfare" : "7210 Laketree Dr",
-          "areaOfInterest" : [
-
-          ],
-          "locality" : "Fairfax Station",
-          "country" : "United States"
-        }
-      }
-    ],
-    "owner" : "owner@localhost",
-    "batteryStatus" : 2,
-    "serialNumber" : "HGPL2WFNP0GV",
-    "lostModeMetadata" : null,
-    "capabilities" : 734,
-    "identifier" : "B13252E1-1C49-4B71-BAA8-C1AA8E51BCBD",
+    "identifier" : "9CB76244-2EB0-4D07-8C44-EC2A85433A53",
     "address" : {
       "subAdministrativeArea" : "Fairfax County",
-      "label" : "7211 Laketree Dr",
-      "streetAddress" : "7211",
+      "label" : "7210 Laketree Dr",
+      "streetAddress" : "7210",
       "countryCode" : "US",
       "stateCode" : "VA",
       "administrativeArea" : "Virginia",
       "streetName" : "Laketree Dr",
       "formattedAddressLines" : [
-        "7211 Laketree Dr",
+        "7210 Laketree Dr",
         "Fairfax Station, VA  22039",
         "United States"
       ],
-      "mapItemFullAddress" : "7211 Laketree Dr, Fairfax Station, VA  22039",
-      "fullThroroughfare" : "7211 Laketree Dr",
+      "mapItemFullAddress" : "7210 Laketree Dr, Fairfax Station, VA  22039",
+      "fullThroroughfare" : "7210 Laketree Dr",
       "areaOfInterest" : [
 
       ],
@@ -928,41 +928,41 @@
       "country" : "United States"
     },
     "location" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290638999999999,
+      "longitude" : -77.290660387600497,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 21.587742241262198,
-      "latitude" : 38.757236900000009,
-      "timeStamp" : 1782242180000,
+      "horizontalAccuracy" : 30.97482675337336,
+      "latitude" : 38.757468379863489,
+      "timeStamp" : 1762614802000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "productIdentifier" : "DE3DE9FC-A990-4391-B22B-3B1DF35934FA",
     "isAppleAudioAccessory" : false,
     "crowdSourcedLocation" : {
-      "positionType" : "crowdsourced",
+      "positionType" : "ownedDeviceLocation",
       "verticalAccuracy" : -1,
-      "longitude" : -77.290638999999999,
+      "longitude" : -77.290660387600497,
       "floorLevel" : -1,
       "isInaccurate" : false,
       "isOld" : true,
-      "horizontalAccuracy" : 21.587742241262198,
-      "latitude" : 38.757236900000009,
-      "timeStamp" : 1782242180000,
+      "horizontalAccuracy" : 30.97482675337336,
+      "latitude" : 38.757468379863489,
+      "timeStamp" : 1762614802000,
       "altitude" : -1,
       "locationFinished" : true
     },
     "groupIdentifier" : null,
     "role" : {
-      "name" : "Luggage",
-      "emoji" : "🧳",
-      "identifier" : 7
+      "name" : "Custom Name",
+      "emoji" : "🦄",
+      "identifier" : 999
     },
     "systemVersion" : "2.0.73",
-    "name" : "2"
+    "name" : "4"
   },
   {
     "partInfo" : null,
